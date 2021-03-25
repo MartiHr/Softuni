@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.genruntimeconfig.cache

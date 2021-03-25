@@ -1,0 +1,5 @@
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\4. Сума от две числа\bin\Debug\_4.Сума_от_две_числа.exe.config
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\4. Сума от две числа\bin\Debug\_4.Сума_от_две_числа.exe
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\4. Сума от две числа\bin\Debug\_4.Сума_от_две_числа.pdb
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\4. Сума от две числа\obj\Debug\_4.Сума_от_две_числа.exe
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\4. Сума от две числа\obj\Debug\_4.Сума_от_две_числа.pdb

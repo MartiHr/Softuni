@@ -1,0 +1,4 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\02. Division\obj\Debug\netcoreapp3.1\02. Division.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\02. Division\obj\Debug\netcoreapp3.1\02. Division.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\02. Division\obj\Debug\netcoreapp3.1\02. Division.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\02. Division\obj\Debug\netcoreapp3.1\02. Division.csproj.CoreCompileInputs.cache

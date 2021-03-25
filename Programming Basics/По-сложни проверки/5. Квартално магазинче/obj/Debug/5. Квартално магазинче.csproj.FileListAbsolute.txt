@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\5. Квартално магазинче\bin\Debug\_5.Квартално_магазинче.exe.config
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\5. Квартално магазинче\bin\Debug\_5.Квартално_магазинче.exe
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\5. Квартално магазинче\bin\Debug\_5.Квартално_магазинче.pdb
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\5. Квартално магазинче\obj\Debug\5. Квартално магазинче.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\5. Квартално магазинче\obj\Debug\_5.Квартално_магазинче.exe
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\5. Квартално магазинче\obj\Debug\_5.Квартално_магазинче.pdb

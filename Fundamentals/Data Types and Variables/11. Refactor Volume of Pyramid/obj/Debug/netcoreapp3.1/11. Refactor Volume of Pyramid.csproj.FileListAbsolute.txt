@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\Упражнение. While-цикъл\6. Торта\obj\Debug\6. Торта.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\Упражнение. While-цикъл\6. Торта\bin\Debug\_6.Торта.exe.config
+C:\Users\marti\source\repos\Упражнение. While-цикъл\6. Торта\bin\Debug\_6.Торта.exe
+C:\Users\marti\source\repos\Упражнение. While-цикъл\6. Торта\bin\Debug\_6.Торта.pdb
+C:\Users\marti\source\repos\Упражнение. While-цикъл\6. Торта\obj\Debug\_6.Торта.exe
+C:\Users\marti\source\repos\Упражнение. While-цикъл\6. Торта\obj\Debug\_6.Торта.pdb

@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\For-цикъл\1. Числа от 1 до 100\bin\Debug\_1.Числа_от_1_до_100.exe.config
+C:\Users\marti\Desktop\SoftUni\For-цикъл\1. Числа от 1 до 100\bin\Debug\_1.Числа_от_1_до_100.exe
+C:\Users\marti\Desktop\SoftUni\For-цикъл\1. Числа от 1 до 100\bin\Debug\_1.Числа_от_1_до_100.pdb
+C:\Users\marti\Desktop\SoftUni\For-цикъл\1. Числа от 1 до 100\obj\Debug\1. Числа от 1 до 100.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\For-цикъл\1. Числа от 1 до 100\obj\Debug\_1.Числа_от_1_до_100.exe
+C:\Users\marti\Desktop\SoftUni\For-цикъл\1. Числа от 1 до 100\obj\Debug\_1.Числа_от_1_до_100.pdb

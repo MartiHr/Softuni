@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.genruntimeconfig.cache

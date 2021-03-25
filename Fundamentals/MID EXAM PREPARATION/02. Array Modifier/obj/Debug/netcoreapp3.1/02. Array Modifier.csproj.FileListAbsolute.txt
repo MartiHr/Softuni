@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.genruntimeconfig.cache

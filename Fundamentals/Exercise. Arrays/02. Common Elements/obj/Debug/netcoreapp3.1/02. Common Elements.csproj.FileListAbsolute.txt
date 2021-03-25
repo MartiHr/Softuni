@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.genruntimeconfig.cache

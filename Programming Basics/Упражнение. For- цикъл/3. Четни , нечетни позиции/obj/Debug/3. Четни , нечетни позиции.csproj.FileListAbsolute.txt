@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\Упражнение. For- цикъл\3. Четни , нечетни позиции\bin\Debug\_3.Четни___нечетни_позиции.exe.config
+C:\Users\marti\Desktop\SoftUni\Упражнение. For- цикъл\3. Четни , нечетни позиции\bin\Debug\_3.Четни___нечетни_позиции.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. For- цикъл\3. Четни , нечетни позиции\bin\Debug\_3.Четни___нечетни_позиции.pdb
+C:\Users\marti\Desktop\SoftUni\Упражнение. For- цикъл\3. Четни , нечетни позиции\obj\Debug\_3.Четни___нечетни_позиции.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. For- цикъл\3. Четни , нечетни позиции\obj\Debug\_3.Четни___нечетни_позиции.pdb
+C:\Users\marti\Desktop\SoftUni\Упражнение. For- цикъл\3. Четни , нечетни позиции\obj\Debug\3. Четни , нечетни позиции.csprojAssemblyReference.cache

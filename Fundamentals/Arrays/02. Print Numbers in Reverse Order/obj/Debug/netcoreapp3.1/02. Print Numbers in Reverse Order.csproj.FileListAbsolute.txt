@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\5. Пътуване\bin\Debug\_5.Пътуване.exe.config
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\5. Пътуване\bin\Debug\_5.Пътуване.exe
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\5. Пътуване\bin\Debug\_5.Пътуване.pdb
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\5. Пътуване\obj\Debug\5. Пътуване.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\5. Пътуване\obj\Debug\_5.Пътуване.exe
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\5. Пътуване\obj\Debug\_5.Пътуване.pdb

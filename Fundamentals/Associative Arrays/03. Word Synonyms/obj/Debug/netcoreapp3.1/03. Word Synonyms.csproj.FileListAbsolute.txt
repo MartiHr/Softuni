@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.genruntimeconfig.cache

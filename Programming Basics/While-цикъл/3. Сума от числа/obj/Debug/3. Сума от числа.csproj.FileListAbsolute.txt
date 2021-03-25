@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\While-цикъл\3. Сума от числа\bin\Debug\_3.Сума_от_числа.exe.config
+C:\Users\marti\Desktop\SoftUni\While-цикъл\3. Сума от числа\bin\Debug\_3.Сума_от_числа.exe
+C:\Users\marti\Desktop\SoftUni\While-цикъл\3. Сума от числа\bin\Debug\_3.Сума_от_числа.pdb
+C:\Users\marti\Desktop\SoftUni\While-цикъл\3. Сума от числа\obj\Debug\3. Сума от числа.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\While-цикъл\3. Сума от числа\obj\Debug\_3.Сума_от_числа.exe
+C:\Users\marti\Desktop\SoftUni\While-цикъл\3. Сума от числа\obj\Debug\_3.Сума_от_числа.pdb

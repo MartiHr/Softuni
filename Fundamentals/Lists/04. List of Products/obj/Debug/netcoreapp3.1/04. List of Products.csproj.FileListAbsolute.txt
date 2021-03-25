@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Arrays\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\Упражнение. While-цикъл\5. Монети\bin\Debug\_5.Монети.exe.config
+C:\Users\marti\source\repos\Упражнение. While-цикъл\5. Монети\bin\Debug\_5.Монети.exe
+C:\Users\marti\source\repos\Упражнение. While-цикъл\5. Монети\bin\Debug\_5.Монети.pdb
+C:\Users\marti\source\repos\Упражнение. While-цикъл\5. Монети\obj\Debug\5. Монети.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\Упражнение. While-цикъл\5. Монети\obj\Debug\_5.Монети.exe
+C:\Users\marti\source\repos\Упражнение. While-цикъл\5. Монети\obj\Debug\_5.Монети.pdb

@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\02. Race\bin\Debug\netcoreapp3.1\02. Race.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\02. Race\bin\Debug\netcoreapp3.1\02. Race.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\02. Race\bin\Debug\netcoreapp3.1\02. Race.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\02. Race\bin\Debug\netcoreapp3.1\02. Race.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\02. Race\bin\Debug\netcoreapp3.1\02. Race.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\02. Race\bin\Debug\netcoreapp3.1\02. Race.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\02. Race\obj\Debug\netcoreapp3.1\02. Race.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\02. Race\obj\Debug\netcoreapp3.1\02. Race.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\02. Race\obj\Debug\netcoreapp3.1\02. Race.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\02. Race\obj\Debug\netcoreapp3.1\02. Race.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\02. Race\obj\Debug\netcoreapp3.1\02. Race.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\02. Race\obj\Debug\netcoreapp3.1\02. Race.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\02. Race\obj\Debug\netcoreapp3.1\02. Race.genruntimeconfig.cache

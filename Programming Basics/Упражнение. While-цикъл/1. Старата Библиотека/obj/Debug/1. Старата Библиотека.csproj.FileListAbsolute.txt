@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\Упражнение. While-цикъл\1. Старата Библиотека\bin\Debug\_1.Старата_Библиотека.exe.config
+C:\Users\marti\source\repos\Упражнение. While-цикъл\1. Старата Библиотека\bin\Debug\_1.Старата_Библиотека.exe
+C:\Users\marti\source\repos\Упражнение. While-цикъл\1. Старата Библиотека\bin\Debug\_1.Старата_Библиотека.pdb
+C:\Users\marti\source\repos\Упражнение. While-цикъл\1. Старата Библиотека\obj\Debug\1. Старата Библиотека.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\Упражнение. While-цикъл\1. Старата Библиотека\obj\Debug\_1.Старата_Библиотека.exe
+C:\Users\marti\source\repos\Упражнение. While-цикъл\1. Старата Библиотека\obj\Debug\_1.Старата_Библиотека.pdb

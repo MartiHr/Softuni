@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\08. Company Users\bin\Debug\netcoreapp3.1\08. Company Users.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\08. Company Users\bin\Debug\netcoreapp3.1\08. Company Users.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\08. Company Users\bin\Debug\netcoreapp3.1\08. Company Users.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\08. Company Users\bin\Debug\netcoreapp3.1\08. Company Users.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\08. Company Users\bin\Debug\netcoreapp3.1\08. Company Users.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\08. Company Users\bin\Debug\netcoreapp3.1\08. Company Users.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\08. Company Users\obj\Debug\netcoreapp3.1\08. Company Users.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\08. Company Users\obj\Debug\netcoreapp3.1\08. Company Users.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\08. Company Users\obj\Debug\netcoreapp3.1\08. Company Users.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\08. Company Users\obj\Debug\netcoreapp3.1\08. Company Users.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\08. Company Users\obj\Debug\netcoreapp3.1\08. Company Users.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\08. Company Users\obj\Debug\netcoreapp3.1\08. Company Users.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\08. Company Users\obj\Debug\netcoreapp3.1\08. Company Users.genruntimeconfig.cache

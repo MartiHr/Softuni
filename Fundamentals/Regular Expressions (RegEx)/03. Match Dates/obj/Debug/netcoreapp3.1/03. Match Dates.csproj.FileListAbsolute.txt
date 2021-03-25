@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Regular Expressions (RegEx)\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Regular Expressions (RegEx)\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Regular Expressions (RegEx)\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Regular Expressions (RegEx)\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Regular Expressions (RegEx)\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Regular Expressions (RegEx)\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Regular Expressions (RegEx)\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Regular Expressions (RegEx)\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Regular Expressions (RegEx)\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Regular Expressions (RegEx)\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Regular Expressions (RegEx)\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Regular Expressions (RegEx)\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Regular Expressions (RegEx)\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.genruntimeconfig.cache

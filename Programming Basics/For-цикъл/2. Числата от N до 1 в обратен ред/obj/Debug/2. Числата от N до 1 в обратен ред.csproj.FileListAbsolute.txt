@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\For-цикъл\2. Числата от N до 1 в обратен ред\bin\Debug\_2.Числата_от_N_до_1_в_обратен_ред.exe.config
+C:\Users\marti\Desktop\SoftUni\For-цикъл\2. Числата от N до 1 в обратен ред\bin\Debug\_2.Числата_от_N_до_1_в_обратен_ред.exe
+C:\Users\marti\Desktop\SoftUni\For-цикъл\2. Числата от N до 1 в обратен ред\bin\Debug\_2.Числата_от_N_до_1_в_обратен_ред.pdb
+C:\Users\marti\Desktop\SoftUni\For-цикъл\2. Числата от N до 1 в обратен ред\obj\Debug\_2.Числата_от_N_до_1_в_обратен_ред.exe
+C:\Users\marti\Desktop\SoftUni\For-цикъл\2. Числата от N до 1 в обратен ред\obj\Debug\_2.Числата_от_N_до_1_в_обратен_ред.pdb
+C:\Users\marti\Desktop\SoftUni\For-цикъл\2. Числата от N до 1 в обратен ред\obj\Debug\2. Числата от N до 1 в обратен ред.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\marti\source\repos\Exercise. Lists\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.exe
+C:\Users\marti\source\repos\Exercise. Lists\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.deps.json
+C:\Users\marti\source\repos\Exercise. Lists\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.runtimeconfig.json
+C:\Users\marti\source\repos\Exercise. Lists\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.runtimeconfig.dev.json
+C:\Users\marti\source\repos\Exercise. Lists\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.dll
+C:\Users\marti\source\repos\Exercise. Lists\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.pdb
+C:\Users\marti\source\repos\Exercise. Lists\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\Exercise. Lists\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Exercise. Lists\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.AssemblyInfo.cs
+C:\Users\marti\source\repos\Exercise. Lists\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exercise. Lists\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.dll
+C:\Users\marti\source\repos\Exercise. Lists\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.pdb
+C:\Users\marti\source\repos\Exercise. Lists\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.genruntimeconfig.cache

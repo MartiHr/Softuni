@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\MID EXAM PREPARATION\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.genruntimeconfig.cache

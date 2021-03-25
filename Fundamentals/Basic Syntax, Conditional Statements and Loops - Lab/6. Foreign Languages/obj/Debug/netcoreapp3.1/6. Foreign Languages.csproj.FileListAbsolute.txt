@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\bin\Debug\netcoreapp3.1\6. Foreign Languages.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\bin\Debug\netcoreapp3.1\6. Foreign Languages.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\bin\Debug\netcoreapp3.1\6. Foreign Languages.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\bin\Debug\netcoreapp3.1\6. Foreign Languages.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\bin\Debug\netcoreapp3.1\6. Foreign Languages.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\bin\Debug\netcoreapp3.1\6. Foreign Languages.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.genruntimeconfig.cache

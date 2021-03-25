@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\05. Login\bin\Debug\netcoreapp3.1\05. Login.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\05. Login\bin\Debug\netcoreapp3.1\05. Login.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\05. Login\bin\Debug\netcoreapp3.1\05. Login.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\05. Login\bin\Debug\netcoreapp3.1\05. Login.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.genruntimeconfig.cache

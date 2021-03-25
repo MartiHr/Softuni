@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\For-цикъл\9. Лява и дясна сума\bin\Debug\_9.Лява_и_дясна_сума.exe.config
+C:\Users\marti\Desktop\SoftUni\For-цикъл\9. Лява и дясна сума\bin\Debug\_9.Лява_и_дясна_сума.exe
+C:\Users\marti\Desktop\SoftUni\For-цикъл\9. Лява и дясна сума\bin\Debug\_9.Лява_и_дясна_сума.pdb
+C:\Users\marti\Desktop\SoftUni\For-цикъл\9. Лява и дясна сума\obj\Debug\9. Лява и дясна сума.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\For-цикъл\9. Лява и дясна сума\obj\Debug\_9.Лява_и_дясна_сума.exe
+C:\Users\marti\Desktop\SoftUni\For-цикъл\9. Лява и дясна сума\obj\Debug\_9.Лява_и_дясна_сума.pdb

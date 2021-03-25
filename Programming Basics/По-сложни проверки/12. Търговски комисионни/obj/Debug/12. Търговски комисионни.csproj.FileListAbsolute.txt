@@ -1,0 +1,5 @@
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\12. Търговски комисионни\bin\Debug\_12.Търговски_комисионни.exe.config
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\12. Търговски комисионни\bin\Debug\_12.Търговски_комисионни.exe
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\12. Търговски комисионни\bin\Debug\_12.Търговски_комисионни.pdb
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\12. Търговски комисионни\obj\Debug\_12.Търговски_комисионни.exe
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\12. Търговски комисионни\obj\Debug\_12.Търговски_комисионни.pdb

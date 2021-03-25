@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.genruntimeconfig.cache

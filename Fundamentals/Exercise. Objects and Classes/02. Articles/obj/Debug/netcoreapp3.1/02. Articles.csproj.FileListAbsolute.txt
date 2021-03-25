@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.genruntimeconfig.cache

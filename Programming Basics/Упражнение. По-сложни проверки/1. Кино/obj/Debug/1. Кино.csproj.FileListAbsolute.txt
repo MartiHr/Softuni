@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\1. Кино\Упражнение. По-сложни проверки\bin\Debug\Упражнение.По_сложни_проверки.exe.config
+C:\Users\marti\Desktop\SoftUni\1. Кино\Упражнение. По-сложни проверки\bin\Debug\Упражнение.По_сложни_проверки.exe
+C:\Users\marti\Desktop\SoftUni\1. Кино\Упражнение. По-сложни проверки\bin\Debug\Упражнение.По_сложни_проверки.pdb
+C:\Users\marti\Desktop\SoftUni\1. Кино\Упражнение. По-сложни проверки\obj\Debug\1. Кино.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\1. Кино\Упражнение. По-сложни проверки\obj\Debug\Упражнение.По_сложни_проверки.exe
+C:\Users\marti\Desktop\SoftUni\1. Кино\Упражнение. По-сложни проверки\obj\Debug\Упражнение.По_сложни_проверки.pdb

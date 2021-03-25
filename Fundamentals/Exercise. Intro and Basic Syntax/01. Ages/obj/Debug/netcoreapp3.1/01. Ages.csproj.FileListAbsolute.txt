@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.genruntimeconfig.cache

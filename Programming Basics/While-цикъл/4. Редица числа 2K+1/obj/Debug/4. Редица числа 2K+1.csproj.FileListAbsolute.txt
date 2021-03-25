@@ -1,0 +1,5 @@
+C:\Users\marti\Desktop\SoftUni\While-цикъл\4. Редица числа 2K+1\bin\Debug\_4.Редица_числа_2K_1.exe.config
+C:\Users\marti\Desktop\SoftUni\While-цикъл\4. Редица числа 2K+1\bin\Debug\_4.Редица_числа_2K_1.exe
+C:\Users\marti\Desktop\SoftUni\While-цикъл\4. Редица числа 2K+1\bin\Debug\_4.Редица_числа_2K_1.pdb
+C:\Users\marti\Desktop\SoftUni\While-цикъл\4. Редица числа 2K+1\obj\Debug\_4.Редица_числа_2K_1.exe
+C:\Users\marti\Desktop\SoftUni\While-цикъл\4. Редица числа 2K+1\obj\Debug\_4.Редица_числа_2K_1.pdb

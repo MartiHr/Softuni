@@ -1,0 +1,13 @@
+C:\Users\marti\source\repos\Exercise. Lists\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.exe
+C:\Users\marti\source\repos\Exercise. Lists\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.deps.json
+C:\Users\marti\source\repos\Exercise. Lists\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.runtimeconfig.json
+C:\Users\marti\source\repos\Exercise. Lists\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.runtimeconfig.dev.json
+C:\Users\marti\source\repos\Exercise. Lists\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.dll
+C:\Users\marti\source\repos\Exercise. Lists\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.pdb
+C:\Users\marti\source\repos\Exercise. Lists\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\Exercise. Lists\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Exercise. Lists\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.AssemblyInfo.cs
+C:\Users\marti\source\repos\Exercise. Lists\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exercise. Lists\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.dll
+C:\Users\marti\source\repos\Exercise. Lists\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.pdb
+C:\Users\marti\source\repos\Exercise. Lists\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.genruntimeconfig.cache

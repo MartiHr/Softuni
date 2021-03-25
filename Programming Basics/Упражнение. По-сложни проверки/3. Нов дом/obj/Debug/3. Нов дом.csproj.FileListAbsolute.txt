@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\3. Нов дом\obj\Debug\3. Нов дом.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\3. Нов дом\bin\Debug\_3.Нов_дом.exe.config
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\3. Нов дом\bin\Debug\_3.Нов_дом.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\3. Нов дом\bin\Debug\_3.Нов_дом.pdb
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\3. Нов дом\obj\Debug\_3.Нов_дом.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\3. Нов дом\obj\Debug\_3.Нов_дом.pdb

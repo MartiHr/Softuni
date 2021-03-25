@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\Почивен или работен ден\bin\Debug\Почивен или работен ден.exe.config
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\Почивен или работен ден\bin\Debug\Почивен или работен ден.exe
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\Почивен или работен ден\bin\Debug\Почивен или работен ден.pdb
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\Почивен или работен ден\obj\Debug\2.Почивен или работен ден.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\Почивен или работен ден\obj\Debug\Почивен или работен ден.exe
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\Почивен или работен ден\obj\Debug\Почивен или работен ден.pdb

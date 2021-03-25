@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.genruntimeconfig.cache

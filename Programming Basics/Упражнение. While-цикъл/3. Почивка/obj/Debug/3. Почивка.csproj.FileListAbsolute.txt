@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\Упражнение. While-цикъл\3. Почивка\bin\Debug\_3.Почивка.exe.config
+C:\Users\marti\source\repos\Упражнение. While-цикъл\3. Почивка\bin\Debug\_3.Почивка.exe
+C:\Users\marti\source\repos\Упражнение. While-цикъл\3. Почивка\bin\Debug\_3.Почивка.pdb
+C:\Users\marti\source\repos\Упражнение. While-цикъл\3. Почивка\obj\Debug\3. Почивка.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\Упражнение. While-цикъл\3. Почивка\obj\Debug\_3.Почивка.exe
+C:\Users\marti\source\repos\Упражнение. While-цикъл\3. Почивка\obj\Debug\_3.Почивка.pdb

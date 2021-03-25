@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\Упражнение. While-цикъл\4. Стъпки\bin\Debug\_4.Стъпки.exe.config
+C:\Users\marti\source\repos\Упражнение. While-цикъл\4. Стъпки\bin\Debug\_4.Стъпки.exe
+C:\Users\marti\source\repos\Упражнение. While-цикъл\4. Стъпки\bin\Debug\_4.Стъпки.pdb
+C:\Users\marti\source\repos\Упражнение. While-цикъл\4. Стъпки\obj\Debug\4. Стъпки.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\Упражнение. While-цикъл\4. Стъпки\obj\Debug\_4.Стъпки.exe
+C:\Users\marti\source\repos\Упражнение. While-цикъл\4. Стъпки\obj\Debug\_4.Стъпки.pdb

@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\08. Letters Change Numbers\bin\Debug\netcoreapp3.1\08. Letters Change Numbers.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\08. Letters Change Numbers\bin\Debug\netcoreapp3.1\08. Letters Change Numbers.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\08. Letters Change Numbers\bin\Debug\netcoreapp3.1\08. Letters Change Numbers.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\08. Letters Change Numbers\bin\Debug\netcoreapp3.1\08. Letters Change Numbers.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\08. Letters Change Numbers\bin\Debug\netcoreapp3.1\08. Letters Change Numbers.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\08. Letters Change Numbers\bin\Debug\netcoreapp3.1\08. Letters Change Numbers.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\13. Ски почивка\bin\Debug\_13.Ски_почивка.exe.config
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\13. Ски почивка\bin\Debug\_13.Ски_почивка.exe
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\13. Ски почивка\bin\Debug\_13.Ски_почивка.pdb
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\13. Ски почивка\obj\Debug\13. Ски почивка.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\13. Ски почивка\obj\Debug\_13.Ски_почивка.exe
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\13. Ски почивка\obj\Debug\_13.Ски_почивка.pdb

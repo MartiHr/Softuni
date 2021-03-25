@@ -1,0 +1,13 @@
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.exe
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.deps.json
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.runtimeconfig.json
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.runtimeconfig.dev.json
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.dll
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.pdb
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.AssemblyInfo.cs
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.dll
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.pdb
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.genruntimeconfig.cache

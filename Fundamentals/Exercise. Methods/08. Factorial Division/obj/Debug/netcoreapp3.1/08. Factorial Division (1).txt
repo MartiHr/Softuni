@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Methods\8. Factorial Division\bin\Debug\netcoreapp3.1\8. Factorial Division.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Methods\8. Factorial Division\bin\Debug\netcoreapp3.1\8. Factorial Division.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Methods\8. Factorial Division\bin\Debug\netcoreapp3.1\8. Factorial Division.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Methods\8. Factorial Division\bin\Debug\netcoreapp3.1\8. Factorial Division.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Methods\8. Factorial Division\bin\Debug\netcoreapp3.1\8. Factorial Division.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Methods\8. Factorial Division\bin\Debug\netcoreapp3.1\8. Factorial Division.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Methods\8. Factorial Division\obj\Debug\netcoreapp3.1\8. Factorial Division.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Methods\8. Factorial Division\obj\Debug\netcoreapp3.1\8. Factorial Division.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Methods\8. Factorial Division\obj\Debug\netcoreapp3.1\8. Factorial Division.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Methods\8. Factorial Division\obj\Debug\netcoreapp3.1\8. Factorial Division.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Methods\8. Factorial Division\obj\Debug\netcoreapp3.1\8. Factorial Division.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Methods\8. Factorial Division\obj\Debug\netcoreapp3.1\8. Factorial Division.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Methods\8. Factorial Division\obj\Debug\netcoreapp3.1\8. Factorial Division.genruntimeconfig.cache

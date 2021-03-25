@@ -1,0 +1,5 @@
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\11. Магазин за плодове\bin\Debug\_11.Магазин_за_плодове.exe.config
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\11. Магазин за плодове\bin\Debug\_11.Магазин_за_плодове.exe
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\11. Магазин за плодове\bin\Debug\_11.Магазин_за_плодове.pdb
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\11. Магазин за плодове\obj\Debug\_11.Магазин_за_плодове.exe
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\11. Магазин за плодове\obj\Debug\_11.Магазин_за_плодове.pdb

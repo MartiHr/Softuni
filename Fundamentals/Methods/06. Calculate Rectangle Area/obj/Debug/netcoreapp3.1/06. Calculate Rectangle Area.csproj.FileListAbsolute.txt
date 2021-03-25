@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.genruntimeconfig.cache

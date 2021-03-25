@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\4. Обръщение според възраст и пол\bin\Debug\_4.Обръщение_според_възраст_и_пол.exe.config
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\4. Обръщение според възраст и пол\bin\Debug\_4.Обръщение_според_възраст_и_пол.exe
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\4. Обръщение според възраст и пол\bin\Debug\_4.Обръщение_според_възраст_и_пол.pdb
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\4. Обръщение според възраст и пол\obj\Debug\_4.Обръщение_според_възраст_и_пол.exe
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\4. Обръщение според възраст и пол\obj\Debug\_4.Обръщение_според_възраст_и_пол.pdb
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\4. Обръщение според възраст и пол\obj\Debug\4. Обръщение според възраст и пол.csprojAssemblyReference.cache

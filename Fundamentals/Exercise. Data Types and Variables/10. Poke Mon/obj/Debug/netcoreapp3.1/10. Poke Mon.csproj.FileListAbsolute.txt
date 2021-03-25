@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.genruntimeconfig.cache

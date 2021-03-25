@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\1. Часовник\obj\Debug\1. Часовник.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\1. Часовник\bin\Debug\_1.Часовник.exe.config
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\1. Часовник\bin\Debug\_1.Часовник.exe
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\1. Часовник\bin\Debug\_1.Часовник.pdb
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\1. Часовник\obj\Debug\_1.Часовник.exe
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\1. Часовник\obj\Debug\_1.Часовник.pdb

@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\1. Пирамида от числа\bin\Debug\_1.Пирамида_от_числа.exe.config
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\1. Пирамида от числа\bin\Debug\_1.Пирамида_от_числа.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\1. Пирамида от числа\bin\Debug\_1.Пирамида_от_числа.pdb
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\1. Пирамида от числа\obj\Debug\1. Пирамида от числа.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\1. Пирамида от числа\obj\Debug\_1.Пирамида_от_числа.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\1. Пирамида от числа\obj\Debug\_1.Пирамида_от_числа.pdb

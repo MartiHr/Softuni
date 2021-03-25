@@ -1,0 +1,5 @@
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\3. Комбинации\bin\Debug\_3.Комбинации.exe.config
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\3. Комбинации\bin\Debug\_3.Комбинации.exe
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\3. Комбинации\bin\Debug\_3.Комбинации.pdb
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\3. Комбинации\obj\Debug\_3.Комбинации.exe
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\3. Комбинации\obj\Debug\_3.Комбинации.pdb

@@ -1,0 +1,13 @@
+C:\Users\marti\source\repos\Exercise. Lists\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.exe
+C:\Users\marti\source\repos\Exercise. Lists\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.deps.json
+C:\Users\marti\source\repos\Exercise. Lists\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.runtimeconfig.json
+C:\Users\marti\source\repos\Exercise. Lists\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.runtimeconfig.dev.json
+C:\Users\marti\source\repos\Exercise. Lists\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.dll
+C:\Users\marti\source\repos\Exercise. Lists\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.pdb
+C:\Users\marti\source\repos\Exercise. Lists\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\Exercise. Lists\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Exercise. Lists\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.AssemblyInfo.cs
+C:\Users\marti\source\repos\Exercise. Lists\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exercise. Lists\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.dll
+C:\Users\marti\source\repos\Exercise. Lists\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.pdb
+C:\Users\marti\source\repos\Exercise. Lists\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.genruntimeconfig.cache

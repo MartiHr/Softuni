@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Strings and Text Processing\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.genruntimeconfig.cache

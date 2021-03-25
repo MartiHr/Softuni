@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.genruntimeconfig.cache

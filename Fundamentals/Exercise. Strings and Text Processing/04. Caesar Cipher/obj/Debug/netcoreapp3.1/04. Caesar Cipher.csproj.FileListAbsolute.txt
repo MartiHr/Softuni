@@ -1,0 +1,13 @@
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.exe
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.deps.json
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.runtimeconfig.json
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.runtimeconfig.dev.json
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.dll
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.pdb
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.AssemblyInfo.cs
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.dll
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.pdb
+C:\Users\marti\source\repos\Exercise. Strings and Text Processing\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.genruntimeconfig.cache

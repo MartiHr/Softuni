@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.genruntimeconfig.cache

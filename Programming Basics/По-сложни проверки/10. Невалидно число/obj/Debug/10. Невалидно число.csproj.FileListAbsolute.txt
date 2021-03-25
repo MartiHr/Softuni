@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\10. Невалидно число\bin\Debug\_10.Невалидно_число.exe.config
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\10. Невалидно число\bin\Debug\_10.Невалидно_число.exe
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\10. Невалидно число\bin\Debug\_10.Невалидно_число.pdb
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\10. Невалидно число\obj\Debug\10. Невалидно число.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\10. Невалидно число\obj\Debug\_10.Невалидно_число.exe
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\10. Невалидно число\obj\Debug\_10.Невалидно_число.pdb

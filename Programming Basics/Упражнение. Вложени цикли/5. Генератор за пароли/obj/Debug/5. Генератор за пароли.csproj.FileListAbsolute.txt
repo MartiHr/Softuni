@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\5. Генератор за пароли\bin\Debug\_5.Генератор_за_пароли.exe.config
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\5. Генератор за пароли\bin\Debug\_5.Генератор_за_пароли.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\5. Генератор за пароли\bin\Debug\_5.Генератор_за_пароли.pdb
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\5. Генератор за пароли\obj\Debug\5. Генератор за пароли.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\5. Генератор за пароли\obj\Debug\_5.Генератор_за_пароли.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\5. Генератор за пароли\obj\Debug\_5.Генератор_за_пароли.pdb

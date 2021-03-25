@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.genruntimeconfig.cache

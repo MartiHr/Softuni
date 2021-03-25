@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\4. Лодка за риболов\bin\Debug\_4.Лодка_за_риболов.exe.config
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\4. Лодка за риболов\bin\Debug\_4.Лодка_за_риболов.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\4. Лодка за риболов\bin\Debug\_4.Лодка_за_риболов.pdb
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\4. Лодка за риболов\obj\Debug\4. Лодка за риболов.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\4. Лодка за риболов\obj\Debug\_4.Лодка_за_риболов.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\4. Лодка за риболов\obj\Debug\_4.Лодка_за_риболов.pdb

@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\6. Сграда\bin\Debug\_6.Сграда.exe.config
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\6. Сграда\bin\Debug\_6.Сграда.exe
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\6. Сграда\bin\Debug\_6.Сграда.pdb
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\6. Сграда\obj\Debug\6. Сграда.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\6. Сграда\obj\Debug\_6.Сграда.exe
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\6. Сграда\obj\Debug\_6.Сграда.pdb

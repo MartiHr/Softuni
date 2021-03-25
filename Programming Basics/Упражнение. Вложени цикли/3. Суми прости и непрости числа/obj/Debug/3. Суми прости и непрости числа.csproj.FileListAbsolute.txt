@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\3. Суми прости и непрости числа\bin\Debug\_3.Суми_прости_и_непрости_числа.exe.config
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\3. Суми прости и непрости числа\bin\Debug\_3.Суми_прости_и_непрости_числа.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\3. Суми прости и непрости числа\bin\Debug\_3.Суми_прости_и_непрости_числа.pdb
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\3. Суми прости и непрости числа\obj\Debug\_3.Суми_прости_и_непрости_числа.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\3. Суми прости и непрости числа\obj\Debug\_3.Суми_прости_и_непрости_числа.pdb
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\3. Суми прости и непрости числа\obj\Debug\3. Суми прости и непрости числа.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\marti\source\repos\Exercise. Lists\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.exe
+C:\Users\marti\source\repos\Exercise. Lists\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.deps.json
+C:\Users\marti\source\repos\Exercise. Lists\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.runtimeconfig.json
+C:\Users\marti\source\repos\Exercise. Lists\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.runtimeconfig.dev.json
+C:\Users\marti\source\repos\Exercise. Lists\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.dll
+C:\Users\marti\source\repos\Exercise. Lists\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.pdb
+C:\Users\marti\source\repos\Exercise. Lists\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\Exercise. Lists\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Exercise. Lists\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.AssemblyInfo.cs
+C:\Users\marti\source\repos\Exercise. Lists\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exercise. Lists\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.dll
+C:\Users\marti\source\repos\Exercise. Lists\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.pdb
+C:\Users\marti\source\repos\Exercise. Lists\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\6. Специални числа\bin\Debug\_6.Специални_числа.exe.config
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\6. Специални числа\bin\Debug\_6.Специални_числа.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\6. Специални числа\bin\Debug\_6.Специални_числа.pdb
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\6. Специални числа\obj\Debug\6. Специални числа.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\6. Специални числа\obj\Debug\_6.Специални_числа.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. Вложени цикли\6. Специални числа\obj\Debug\_6.Специални_числа.pdb

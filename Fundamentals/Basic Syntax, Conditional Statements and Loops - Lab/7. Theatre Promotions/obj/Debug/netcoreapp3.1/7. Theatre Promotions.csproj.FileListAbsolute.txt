@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\7. Theatre Promotions\bin\Debug\netcoreapp3.1\7. Theatre Promotions.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\7. Theatre Promotions\bin\Debug\netcoreapp3.1\7. Theatre Promotions.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\7. Theatre Promotions\bin\Debug\netcoreapp3.1\7. Theatre Promotions.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\7. Theatre Promotions\bin\Debug\netcoreapp3.1\7. Theatre Promotions.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\7. Theatre Promotions\bin\Debug\netcoreapp3.1\7. Theatre Promotions.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\7. Theatre Promotions\bin\Debug\netcoreapp3.1\7. Theatre Promotions.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.genruntimeconfig.cache

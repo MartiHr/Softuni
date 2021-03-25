@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\04. Students\bin\Debug\netcoreapp3.1\04. Students.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\04. Students\bin\Debug\netcoreapp3.1\04. Students.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\04. Students\bin\Debug\netcoreapp3.1\04. Students.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\04. Students\bin\Debug\netcoreapp3.1\04. Students.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\04. Students\bin\Debug\netcoreapp3.1\04. Students.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\04. Students\bin\Debug\netcoreapp3.1\04. Students.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\04. Students\obj\Debug\netcoreapp3.1\04. Students.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\04. Students\obj\Debug\netcoreapp3.1\04. Students.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\04. Students\obj\Debug\netcoreapp3.1\04. Students.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\04. Students\obj\Debug\netcoreapp3.1\04. Students.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\04. Students\obj\Debug\netcoreapp3.1\04. Students.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\04. Students\obj\Debug\netcoreapp3.1\04. Students.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\04. Students\obj\Debug\netcoreapp3.1\04. Students.genruntimeconfig.cache

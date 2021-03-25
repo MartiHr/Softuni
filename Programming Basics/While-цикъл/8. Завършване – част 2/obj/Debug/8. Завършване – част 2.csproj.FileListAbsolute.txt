@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\While-цикъл\8. Завършване – част 2\bin\Debug\_8.Завършване___част_2.exe.config
+C:\Users\marti\Desktop\SoftUni\While-цикъл\8. Завършване – част 2\bin\Debug\_8.Завършване___част_2.exe
+C:\Users\marti\Desktop\SoftUni\While-цикъл\8. Завършване – част 2\bin\Debug\_8.Завършване___част_2.pdb
+C:\Users\marti\Desktop\SoftUni\While-цикъл\8. Завършване – част 2\obj\Debug\8. Завършване – част 2.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\While-цикъл\8. Завършване – част 2\obj\Debug\_8.Завършване___част_2.exe
+C:\Users\marti\Desktop\SoftUni\While-цикъл\8. Завършване – част 2\obj\Debug\_8.Завършване___част_2.pdb

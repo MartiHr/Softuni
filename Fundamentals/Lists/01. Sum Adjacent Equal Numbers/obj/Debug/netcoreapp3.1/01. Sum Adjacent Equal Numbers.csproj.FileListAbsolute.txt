@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Objects and Classes\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.genruntimeconfig.cache

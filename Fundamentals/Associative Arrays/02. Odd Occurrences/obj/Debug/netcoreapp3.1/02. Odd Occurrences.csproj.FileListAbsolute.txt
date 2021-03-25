@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.genruntimeconfig.cache

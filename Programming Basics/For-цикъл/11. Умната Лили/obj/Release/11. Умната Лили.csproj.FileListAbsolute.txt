@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\For-цикъл\11. Умната Лили\bin\Release\_11.Умната_Лили.exe.config
+C:\Users\marti\Desktop\SoftUni\For-цикъл\11. Умната Лили\bin\Release\_11.Умната_Лили.exe
+C:\Users\marti\Desktop\SoftUni\For-цикъл\11. Умната Лили\bin\Release\_11.Умната_Лили.pdb
+C:\Users\marti\Desktop\SoftUni\For-цикъл\11. Умната Лили\obj\Release\11. Умната Лили.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\For-цикъл\11. Умната Лили\obj\Release\_11.Умната_Лили.exe
+C:\Users\marti\Desktop\SoftUni\For-цикъл\11. Умната Лили\obj\Release\_11.Умната_Лили.pdb
+C:\Users\marti\Desktop\SoftUni\Programming Basics\For-цикъл\11. Умната Лили\bin\Release\_11.Умната_Лили.exe.config
+C:\Users\marti\Desktop\SoftUni\Programming Basics\For-цикъл\11. Умната Лили\bin\Release\_11.Умната_Лили.exe
+C:\Users\marti\Desktop\SoftUni\Programming Basics\For-цикъл\11. Умната Лили\bin\Release\_11.Умната_Лили.pdb
+C:\Users\marti\Desktop\SoftUni\Programming Basics\For-цикъл\11. Умната Лили\obj\Release\11. Умната Лили.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Programming Basics\For-цикъл\11. Умната Лили\obj\Release\11. Умната Лили.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Programming Basics\For-цикъл\11. Умната Лили\obj\Release\_11.Умната_Лили.exe
+C:\Users\marti\Desktop\SoftUni\Programming Basics\For-цикъл\11. Умната Лили\obj\Release\_11.Умната_Лили.pdb

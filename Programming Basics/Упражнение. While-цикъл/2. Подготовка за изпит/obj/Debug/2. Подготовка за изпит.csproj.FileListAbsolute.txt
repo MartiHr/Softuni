@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\Упражнение. While-цикъл\2. Подготовка за изпит\bin\Debug\_2.Подготовка_за_изпит.exe.config
+C:\Users\marti\source\repos\Упражнение. While-цикъл\2. Подготовка за изпит\bin\Debug\_2.Подготовка_за_изпит.exe
+C:\Users\marti\source\repos\Упражнение. While-цикъл\2. Подготовка за изпит\bin\Debug\_2.Подготовка_за_изпит.pdb
+C:\Users\marti\source\repos\Упражнение. While-цикъл\2. Подготовка за изпит\obj\Debug\_2.Подготовка_за_изпит.exe
+C:\Users\marti\source\repos\Упражнение. While-цикъл\2. Подготовка за изпит\obj\Debug\_2.Подготовка_за_изпит.pdb
+C:\Users\marti\source\repos\Упражнение. While-цикъл\2. Подготовка за изпит\obj\Debug\2. Подготовка за изпит.csprojAssemblyReference.cache

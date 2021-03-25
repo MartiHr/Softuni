@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Text Processing\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Text Processing\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Text Processing\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Text Processing\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Text Processing\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Text Processing\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Text Processing\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Text Processing\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Text Processing\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Text Processing\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Text Processing\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Text Processing\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Text Processing\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.genruntimeconfig.cache

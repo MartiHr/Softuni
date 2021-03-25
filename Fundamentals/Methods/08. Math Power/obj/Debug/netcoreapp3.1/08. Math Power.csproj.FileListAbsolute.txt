@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.genruntimeconfig.cache

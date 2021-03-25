@@ -1,0 +1,5 @@
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\5. Пътешествие\bin\Debug\_5.Пътешествие.exe.config
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\5. Пътешествие\bin\Debug\_5.Пътешествие.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\5. Пътешествие\bin\Debug\_5.Пътешествие.pdb
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\5. Пътешествие\obj\Debug\_5.Пътешествие.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\5. Пътешествие\obj\Debug\_5.Пътешествие.pdb

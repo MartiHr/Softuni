@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+H6I+yHSlny8J0QS9SCw9l6Z3UPhnC/SsD5ZmtDTN6TAsRp1PrblOgcKwOziLQk0x4hI7Q3Qi/kQpuN27WFZ5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\SoftUni\\Fundamentals\\Basic Syntax, Conditional Statements and Loops - Lab\\2. Passed\\2. Passed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

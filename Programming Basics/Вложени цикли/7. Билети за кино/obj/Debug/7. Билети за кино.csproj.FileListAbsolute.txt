@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\7. Билети за кино\bin\Debug\_7.Билети_за_кино.exe.config
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\7. Билети за кино\bin\Debug\_7.Билети_за_кино.exe
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\7. Билети за кино\bin\Debug\_7.Билети_за_кино.pdb
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\7. Билети за кино\obj\Debug\7. Билети за кино.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\7. Билети за кино\obj\Debug\_7.Билети_за_кино.exe
+C:\Users\marti\Desktop\SoftUni\Вложени цикли\7. Билети за кино\obj\Debug\_7.Билети_за_кино.pdb

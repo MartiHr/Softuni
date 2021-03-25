@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\While-цикъл\9. Преместване\bin\Debug\_9.Преместване.exe.config
+C:\Users\marti\Desktop\SoftUni\While-цикъл\9. Преместване\bin\Debug\_9.Преместване.exe
+C:\Users\marti\Desktop\SoftUni\While-цикъл\9. Преместване\bin\Debug\_9.Преместване.pdb
+C:\Users\marti\Desktop\SoftUni\While-цикъл\9. Преместване\obj\Debug\9. Преместване.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\While-цикъл\9. Преместване\obj\Debug\_9.Преместване.exe
+C:\Users\marti\Desktop\SoftUni\While-цикъл\9. Преместване\obj\Debug\_9.Преместване.pdb

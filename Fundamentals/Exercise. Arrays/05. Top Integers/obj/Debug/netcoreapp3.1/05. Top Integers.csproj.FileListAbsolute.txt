@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Arrays\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.genruntimeconfig.cache

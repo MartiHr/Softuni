@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.genruntimeconfig.cache

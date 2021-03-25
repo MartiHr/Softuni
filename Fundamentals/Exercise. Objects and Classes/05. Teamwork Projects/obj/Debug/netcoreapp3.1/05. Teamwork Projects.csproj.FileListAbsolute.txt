@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.genruntimeconfig.cache

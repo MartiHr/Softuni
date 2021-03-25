@@ -1,0 +1,13 @@
+C:\Users\marti\source\repos\Exercise. Methods\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.exe
+C:\Users\marti\source\repos\Exercise. Methods\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.deps.json
+C:\Users\marti\source\repos\Exercise. Methods\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.runtimeconfig.json
+C:\Users\marti\source\repos\Exercise. Methods\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.runtimeconfig.dev.json
+C:\Users\marti\source\repos\Exercise. Methods\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.dll
+C:\Users\marti\source\repos\Exercise. Methods\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.pdb
+C:\Users\marti\source\repos\Exercise. Methods\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\Exercise. Methods\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Exercise. Methods\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\marti\source\repos\Exercise. Methods\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exercise. Methods\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.dll
+C:\Users\marti\source\repos\Exercise. Methods\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.pdb
+C:\Users\marti\source\repos\Exercise. Methods\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.genruntimeconfig.cache

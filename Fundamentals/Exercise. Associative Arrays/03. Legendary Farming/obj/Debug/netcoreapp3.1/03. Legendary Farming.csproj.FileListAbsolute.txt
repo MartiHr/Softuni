@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Associative Arrays\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.genruntimeconfig.cache

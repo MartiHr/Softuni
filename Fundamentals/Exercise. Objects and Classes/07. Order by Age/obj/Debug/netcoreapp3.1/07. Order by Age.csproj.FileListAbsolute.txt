@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Objects and Classes\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.genruntimeconfig.cache

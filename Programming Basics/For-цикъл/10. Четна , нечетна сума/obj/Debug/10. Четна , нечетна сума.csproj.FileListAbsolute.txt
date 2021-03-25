@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\For-цикъл\10. Четна , нечетна сума\bin\Debug\_10.Четна___нечетна_сума.exe.config
+C:\Users\marti\Desktop\SoftUni\For-цикъл\10. Четна , нечетна сума\bin\Debug\_10.Четна___нечетна_сума.exe
+C:\Users\marti\Desktop\SoftUni\For-цикъл\10. Четна , нечетна сума\bin\Debug\_10.Четна___нечетна_сума.pdb
+C:\Users\marti\Desktop\SoftUni\For-цикъл\10. Четна , нечетна сума\obj\Debug\10. Четна , нечетна сума.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\For-цикъл\10. Четна , нечетна сума\obj\Debug\_10.Четна___нечетна_сума.exe
+C:\Users\marti\Desktop\SoftUni\For-цикъл\10. Четна , нечетна сума\obj\Debug\_10.Четна___нечетна_сума.pdb

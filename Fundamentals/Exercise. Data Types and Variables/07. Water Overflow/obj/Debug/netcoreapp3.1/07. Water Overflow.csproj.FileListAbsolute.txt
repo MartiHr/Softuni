@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.genruntimeconfig.cache

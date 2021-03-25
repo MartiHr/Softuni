@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\03. Merging Lists\obj\Debug\netcoreapp3.1\03. Merging Lists.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\03. Merging Lists\obj\Debug\netcoreapp3.1\03. Merging Lists.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\03. Merging Lists\obj\Debug\netcoreapp3.1\03. Merging Lists.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\03. Merging Lists\obj\Debug\netcoreapp3.1\03. Merging Lists.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\03. Merging Lists\bin\Debug\netcoreapp3.1\03. Merging Lists.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\03. Merging Lists\bin\Debug\netcoreapp3.1\03. Merging Lists.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\03. Merging Lists\bin\Debug\netcoreapp3.1\03. Merging Lists.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\03. Merging Lists\bin\Debug\netcoreapp3.1\03. Merging Lists.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\03. Merging Lists\bin\Debug\netcoreapp3.1\03. Merging Lists.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\03. Merging Lists\bin\Debug\netcoreapp3.1\03. Merging Lists.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\03. Merging Lists\obj\Debug\netcoreapp3.1\03. Merging Lists.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\03. Merging Lists\obj\Debug\netcoreapp3.1\03. Merging Lists.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\03. Merging Lists\obj\Debug\netcoreapp3.1\03. Merging Lists.genruntimeconfig.cache

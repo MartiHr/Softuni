@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Methods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.genruntimeconfig.cache

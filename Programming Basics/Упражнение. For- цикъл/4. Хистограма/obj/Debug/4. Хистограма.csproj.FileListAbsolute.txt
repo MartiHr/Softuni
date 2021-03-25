@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\Упражнение. For- цикъл\4. Хистограма\obj\Debug\4. Хистограма.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Упражнение. For- цикъл\4. Хистограма\bin\Debug\_4.Хистограма.exe.config
+C:\Users\marti\Desktop\SoftUni\Упражнение. For- цикъл\4. Хистограма\bin\Debug\_4.Хистограма.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. For- цикъл\4. Хистограма\bin\Debug\_4.Хистограма.pdb
+C:\Users\marti\Desktop\SoftUni\Упражнение. For- цикъл\4. Хистограма\obj\Debug\_4.Хистограма.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. For- цикъл\4. Хистограма\obj\Debug\_4.Хистограма.pdb

@@ -1,0 +1,13 @@
+C:\Users\marti\source\repos\Data Types and Variables\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.exe
+C:\Users\marti\source\repos\Data Types and Variables\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.deps.json
+C:\Users\marti\source\repos\Data Types and Variables\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.json
+C:\Users\marti\source\repos\Data Types and Variables\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.dev.json
+C:\Users\marti\source\repos\Data Types and Variables\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.dll
+C:\Users\marti\source\repos\Data Types and Variables\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.pdb
+C:\Users\marti\source\repos\Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfo.cs
+C:\Users\marti\source\repos\Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.dll
+C:\Users\marti\source\repos\Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.pdb
+C:\Users\marti\source\repos\Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.genruntimeconfig.cache

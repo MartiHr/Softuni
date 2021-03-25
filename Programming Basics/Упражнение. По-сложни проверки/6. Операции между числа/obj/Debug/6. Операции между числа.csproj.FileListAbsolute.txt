@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\6. Операции между числа\bin\Debug\_6.Операции_между_числа.exe.config
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\6. Операции между числа\bin\Debug\_6.Операции_между_числа.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\6. Операции между числа\bin\Debug\_6.Операции_между_числа.pdb
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\6. Операции между числа\obj\Debug\6. Операции между числа.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\6. Операции между числа\obj\Debug\_6.Операции_между_числа.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\6. Операции между числа\obj\Debug\_6.Операции_между_числа.pdb

@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\07. List Manipulation Advanced\obj\Debug\netcoreapp3.1\07. List Manipulation Advanced.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\07. List Manipulation Advanced\obj\Debug\netcoreapp3.1\07. List Manipulation Advanced.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\07. List Manipulation Advanced\obj\Debug\netcoreapp3.1\07. List Manipulation Advanced.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\07. List Manipulation Advanced\obj\Debug\netcoreapp3.1\07. List Manipulation Advanced.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\07. List Manipulation Advanced\bin\Debug\netcoreapp3.1\07. List Manipulation Advanced.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\07. List Manipulation Advanced\bin\Debug\netcoreapp3.1\07. List Manipulation Advanced.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\07. List Manipulation Advanced\bin\Debug\netcoreapp3.1\07. List Manipulation Advanced.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\07. List Manipulation Advanced\bin\Debug\netcoreapp3.1\07. List Manipulation Advanced.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\07. List Manipulation Advanced\bin\Debug\netcoreapp3.1\07. List Manipulation Advanced.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\07. List Manipulation Advanced\bin\Debug\netcoreapp3.1\07. List Manipulation Advanced.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\07. List Manipulation Advanced\obj\Debug\netcoreapp3.1\07. List Manipulation Advanced.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\07. List Manipulation Advanced\obj\Debug\netcoreapp3.1\07. List Manipulation Advanced.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Lists\07. List Manipulation Advanced\obj\Debug\netcoreapp3.1\07. List Manipulation Advanced.genruntimeconfig.cache

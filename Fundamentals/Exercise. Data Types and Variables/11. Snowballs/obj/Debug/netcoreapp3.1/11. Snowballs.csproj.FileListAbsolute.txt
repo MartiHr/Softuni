@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.genruntimeconfig.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Data Types and Variables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.csprojAssemblyReference.cache

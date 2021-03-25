@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\While-цикъл\5. Баланс по сметка\bin\Debug\_5.Баланс_по_сметка.exe.config
+C:\Users\marti\Desktop\SoftUni\While-цикъл\5. Баланс по сметка\bin\Debug\_5.Баланс_по_сметка.exe
+C:\Users\marti\Desktop\SoftUni\While-цикъл\5. Баланс по сметка\bin\Debug\_5.Баланс_по_сметка.pdb
+C:\Users\marti\Desktop\SoftUni\While-цикъл\5. Баланс по сметка\obj\Debug\5. Баланс по сметка.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\While-цикъл\5. Баланс по сметка\obj\Debug\_5.Баланс_по_сметка.exe
+C:\Users\marti\Desktop\SoftUni\While-цикъл\5. Баланс по сметка\obj\Debug\_5.Баланс_по_сметка.pdb

@@ -1,0 +1,5 @@
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\7. Хотелска стая\bin\Debug\_7.Хотелска_стая.exe.config
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\7. Хотелска стая\bin\Debug\_7.Хотелска_стая.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\7. Хотелска стая\bin\Debug\_7.Хотелска_стая.pdb
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\7. Хотелска стая\obj\Debug\_7.Хотелска_стая.exe
+C:\Users\marti\Desktop\SoftUni\Упражнение. По-сложни проверки\7. Хотелска стая\obj\Debug\_7.Хотелска_стая.pdb

@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\9. Плод или зеленчук\obj\Debug\9. Плод или зеленчук.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\9. Плод или зеленчук\bin\Debug\_9.Плод_или_зеленчук.exe.config
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\9. Плод или зеленчук\bin\Debug\_9.Плод_или_зеленчук.exe
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\9. Плод или зеленчук\bin\Debug\_9.Плод_или_зеленчук.pdb
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\9. Плод или зеленчук\obj\Debug\_9.Плод_или_зеленчук.exe
+C:\Users\marti\Desktop\SoftUni\По-сложни проверки\9. Плод или зеленчук\obj\Debug\_9.Плод_или_зеленчук.pdb

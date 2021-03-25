@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise. Regular Expressions\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SoftUni\1. Кино\2. Лятно облекло\bin\Debug\_2.Лятно_облекло.exe.config
+C:\Users\marti\Desktop\SoftUni\1. Кино\2. Лятно облекло\bin\Debug\_2.Лятно_облекло.exe
+C:\Users\marti\Desktop\SoftUni\1. Кино\2. Лятно облекло\bin\Debug\_2.Лятно_облекло.pdb
+C:\Users\marti\Desktop\SoftUni\1. Кино\2. Лятно облекло\obj\Debug\_2.Лятно_облекло.exe
+C:\Users\marti\Desktop\SoftUni\1. Кино\2. Лятно облекло\obj\Debug\_2.Лятно_облекло.pdb
+C:\Users\marti\Desktop\SoftUni\1. Кино\2. Лятно облекло\obj\Debug\2. Лятно облекло.csprojAssemblyReference.cache
