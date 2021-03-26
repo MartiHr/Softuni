@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.genruntimeconfig.cache

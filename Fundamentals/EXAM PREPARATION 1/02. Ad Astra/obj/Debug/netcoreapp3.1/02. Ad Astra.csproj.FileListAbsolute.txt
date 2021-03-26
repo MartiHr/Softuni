@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 1\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.genruntimeconfig.cache
