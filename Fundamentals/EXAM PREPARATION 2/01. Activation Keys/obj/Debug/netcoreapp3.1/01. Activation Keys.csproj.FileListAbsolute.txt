@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.genruntimeconfig.cache

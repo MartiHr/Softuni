@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\EXAM PREPARATION 2\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.genruntimeconfig.cache
