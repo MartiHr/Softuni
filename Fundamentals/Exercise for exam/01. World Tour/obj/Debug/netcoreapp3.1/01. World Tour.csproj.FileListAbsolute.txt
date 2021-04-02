@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.genruntimeconfig.cache

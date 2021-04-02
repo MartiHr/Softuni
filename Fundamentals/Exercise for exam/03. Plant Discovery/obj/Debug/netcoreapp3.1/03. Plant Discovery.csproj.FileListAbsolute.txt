@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.exe
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.deps.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.dll
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.pdb
+C:\Users\marti\Desktop\SoftUni\Fundamentals\Exercise for exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.genruntimeconfig.cache
