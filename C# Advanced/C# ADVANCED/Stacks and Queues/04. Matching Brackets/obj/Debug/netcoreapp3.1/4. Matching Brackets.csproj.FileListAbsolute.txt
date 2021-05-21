@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp3.1\4. Matching Brackets.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp3.1\4. Matching Brackets.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp3.1\4. Matching Brackets.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp3.1\4. Matching Brackets.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp3.1\4. Matching Brackets.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp3.1\4. Matching Brackets.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp3.1\4. Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp3.1\4. Matching Brackets.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp3.1\4. Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp3.1\4. Matching Brackets.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp3.1\4. Matching Brackets.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp3.1\4. Matching Brackets.genruntimeconfig.cache

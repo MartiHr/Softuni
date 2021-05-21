@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Stacks and Queues\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.genruntimeconfig.cache
