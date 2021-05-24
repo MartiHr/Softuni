@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\02. Sum Matrix Columns\bin\Debug\netcoreapp3.1\02. Sum Matrix Columns.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\02. Sum Matrix Columns\bin\Debug\netcoreapp3.1\02. Sum Matrix Columns.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\02. Sum Matrix Columns\bin\Debug\netcoreapp3.1\02. Sum Matrix Columns.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\02. Sum Matrix Columns\bin\Debug\netcoreapp3.1\02. Sum Matrix Columns.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\02. Sum Matrix Columns\bin\Debug\netcoreapp3.1\02. Sum Matrix Columns.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\02. Sum Matrix Columns\bin\Debug\netcoreapp3.1\02. Sum Matrix Columns.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\netcoreapp3.1\02. Sum Matrix Columns.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\netcoreapp3.1\02. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\netcoreapp3.1\02. Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\netcoreapp3.1\02. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\netcoreapp3.1\02. Sum Matrix Columns.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\netcoreapp3.1\02. Sum Matrix Columns.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\netcoreapp3.1\02. Sum Matrix Columns.genruntimeconfig.cache

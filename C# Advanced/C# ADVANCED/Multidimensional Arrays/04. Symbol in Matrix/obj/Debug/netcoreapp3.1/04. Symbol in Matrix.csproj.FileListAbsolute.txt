@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.genruntimeconfig.cache

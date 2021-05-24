@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.genruntimeconfig.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.csprojAssemblyReference.cache

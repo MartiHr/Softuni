@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\08. Balanced Parenthesis.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\08. Balanced Parenthesis.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\08. Balanced Parenthesis.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\08. Balanced Parenthesis.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\08. Balanced Parenthesis.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\08. Balanced Parenthesis.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.genruntimeconfig.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Stacks and Queues\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\07. Pascal Triangle\bin\Debug\netcoreapp3.1\07. Pascal Triangle.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\07. Pascal Triangle\bin\Debug\netcoreapp3.1\07. Pascal Triangle.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\07. Pascal Triangle\bin\Debug\netcoreapp3.1\07. Pascal Triangle.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\07. Pascal Triangle\bin\Debug\netcoreapp3.1\07. Pascal Triangle.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\07. Pascal Triangle\bin\Debug\netcoreapp3.1\07. Pascal Triangle.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\07. Pascal Triangle\bin\Debug\netcoreapp3.1\07. Pascal Triangle.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\07. Pascal Triangle\obj\Debug\netcoreapp3.1\07. Pascal Triangle.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\07. Pascal Triangle\obj\Debug\netcoreapp3.1\07. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\07. Pascal Triangle\obj\Debug\netcoreapp3.1\07. Pascal Triangle.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\07. Pascal Triangle\obj\Debug\netcoreapp3.1\07. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\07. Pascal Triangle\obj\Debug\netcoreapp3.1\07. Pascal Triangle.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\07. Pascal Triangle\obj\Debug\netcoreapp3.1\07. Pascal Triangle.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Multidimensional Arrays\07. Pascal Triangle\obj\Debug\netcoreapp3.1\07. Pascal Triangle.genruntimeconfig.cache
