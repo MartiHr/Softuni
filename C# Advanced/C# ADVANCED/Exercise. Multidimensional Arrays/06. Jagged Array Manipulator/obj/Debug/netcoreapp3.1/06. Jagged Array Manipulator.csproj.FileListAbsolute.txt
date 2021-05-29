@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.genruntimeconfig.cache

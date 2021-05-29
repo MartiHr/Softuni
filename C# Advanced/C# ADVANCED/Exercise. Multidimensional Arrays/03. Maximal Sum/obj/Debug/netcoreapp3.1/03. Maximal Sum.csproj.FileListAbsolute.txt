@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Multidimensional Arrays\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.genruntimeconfig.cache

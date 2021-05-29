@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.genruntimeconfig.cache

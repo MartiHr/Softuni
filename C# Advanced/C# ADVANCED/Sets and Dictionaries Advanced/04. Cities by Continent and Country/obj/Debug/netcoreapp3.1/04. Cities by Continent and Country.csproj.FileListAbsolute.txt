@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\04. Cities by Continent and Country\bin\Debug\netcoreapp3.1\04. Cities by Continent and Country.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\04. Cities by Continent and Country\bin\Debug\netcoreapp3.1\04. Cities by Continent and Country.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\04. Cities by Continent and Country\bin\Debug\netcoreapp3.1\04. Cities by Continent and Country.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\04. Cities by Continent and Country\bin\Debug\netcoreapp3.1\04. Cities by Continent and Country.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\04. Cities by Continent and Country\bin\Debug\netcoreapp3.1\04. Cities by Continent and Country.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\04. Cities by Continent and Country\bin\Debug\netcoreapp3.1\04. Cities by Continent and Country.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\04. Cities by Continent and Country\obj\Debug\netcoreapp3.1\04. Cities by Continent and Country.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\04. Cities by Continent and Country\obj\Debug\netcoreapp3.1\04. Cities by Continent and Country.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\04. Cities by Continent and Country\obj\Debug\netcoreapp3.1\04. Cities by Continent and Country.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\04. Cities by Continent and Country\obj\Debug\netcoreapp3.1\04. Cities by Continent and Country.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\04. Cities by Continent and Country\obj\Debug\netcoreapp3.1\04. Cities by Continent and Country.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\04. Cities by Continent and Country\obj\Debug\netcoreapp3.1\04. Cities by Continent and Country.genruntimeconfig.cache

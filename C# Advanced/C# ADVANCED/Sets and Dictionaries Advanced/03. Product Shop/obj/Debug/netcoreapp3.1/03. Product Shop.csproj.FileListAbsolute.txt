@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.genruntimeconfig.cache
