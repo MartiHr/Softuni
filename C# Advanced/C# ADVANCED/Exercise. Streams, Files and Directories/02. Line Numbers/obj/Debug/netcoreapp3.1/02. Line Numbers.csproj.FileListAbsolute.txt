@@ -1,0 +1,14 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\02. Line Numbers\bin\Debug\netcoreapp3.1\02. Line Numbers.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\02. Line Numbers\bin\Debug\netcoreapp3.1\02. Line Numbers.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\02. Line Numbers\bin\Debug\netcoreapp3.1\02. Line Numbers.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\02. Line Numbers\bin\Debug\netcoreapp3.1\02. Line Numbers.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\02. Line Numbers\bin\Debug\netcoreapp3.1\02. Line Numbers.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\02. Line Numbers\bin\Debug\netcoreapp3.1\02. Line Numbers.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.genruntimeconfig.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\02. Line Numbers\bin\Debug\netcoreapp3.1\text.txt

@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Sets and Dictionaries Advanced\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Sets and Dictionaries Advanced\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Sets and Dictionaries Advanced\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Sets and Dictionaries Advanced\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Sets and Dictionaries Advanced\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Sets and Dictionaries Advanced\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Sets and Dictionaries Advanced\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Sets and Dictionaries Advanced\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Sets and Dictionaries Advanced\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Sets and Dictionaries Advanced\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Sets and Dictionaries Advanced\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Sets and Dictionaries Advanced\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Sets and Dictionaries Advanced\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.genruntimeconfig.cache

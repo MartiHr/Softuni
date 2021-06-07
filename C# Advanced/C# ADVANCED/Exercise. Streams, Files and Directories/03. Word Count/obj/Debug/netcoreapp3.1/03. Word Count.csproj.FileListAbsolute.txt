@@ -1,0 +1,15 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\03. Word Count\bin\Debug\netcoreapp3.1\text.txt
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.genruntimeconfig.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\03. Word Count\bin\Debug\netcoreapp3.1\words.txt

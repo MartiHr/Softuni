@@ -1,0 +1,14 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\01. Even Lines\bin\Debug\netcoreapp3.1\01. Even Lines.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\01. Even Lines\bin\Debug\netcoreapp3.1\01. Even Lines.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\01. Even Lines\bin\Debug\netcoreapp3.1\01. Even Lines.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\01. Even Lines\bin\Debug\netcoreapp3.1\01. Even Lines.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\01. Even Lines\bin\Debug\netcoreapp3.1\01. Even Lines.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\01. Even Lines\bin\Debug\netcoreapp3.1\01. Even Lines.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\01. Even Lines\obj\Debug\netcoreapp3.1\01. Even Lines.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\01. Even Lines\obj\Debug\netcoreapp3.1\01. Even Lines.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\01. Even Lines\obj\Debug\netcoreapp3.1\01. Even Lines.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\01. Even Lines\obj\Debug\netcoreapp3.1\01. Even Lines.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\01. Even Lines\obj\Debug\netcoreapp3.1\01. Even Lines.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\01. Even Lines\obj\Debug\netcoreapp3.1\01. Even Lines.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\01. Even Lines\obj\Debug\netcoreapp3.1\01. Even Lines.genruntimeconfig.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Streams, Files and Directories\01. Even Lines\bin\Debug\netcoreapp3.1\text.txt
