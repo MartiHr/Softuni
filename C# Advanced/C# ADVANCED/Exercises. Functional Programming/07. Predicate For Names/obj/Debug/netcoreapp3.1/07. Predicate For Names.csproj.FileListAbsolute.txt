@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.genruntimeconfig.cache

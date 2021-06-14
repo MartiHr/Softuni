@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.genruntimeconfig.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.csprojAssemblyReference.cache

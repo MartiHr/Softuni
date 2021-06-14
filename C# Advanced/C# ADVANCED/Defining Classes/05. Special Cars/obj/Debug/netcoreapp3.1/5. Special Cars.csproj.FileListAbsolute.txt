@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\5. Special Cars\bin\Debug\netcoreapp3.1\5. Special Cars.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\5. Special Cars\bin\Debug\netcoreapp3.1\5. Special Cars.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\5. Special Cars\bin\Debug\netcoreapp3.1\5. Special Cars.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\5. Special Cars\bin\Debug\netcoreapp3.1\5. Special Cars.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\5. Special Cars\bin\Debug\netcoreapp3.1\5. Special Cars.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\5. Special Cars\bin\Debug\netcoreapp3.1\5. Special Cars.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\5. Special Cars\obj\Debug\netcoreapp3.1\5. Special Cars.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\5. Special Cars\obj\Debug\netcoreapp3.1\5. Special Cars.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\5. Special Cars\obj\Debug\netcoreapp3.1\5. Special Cars.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\5. Special Cars\obj\Debug\netcoreapp3.1\5. Special Cars.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\5. Special Cars\obj\Debug\netcoreapp3.1\5. Special Cars.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\5. Special Cars\obj\Debug\netcoreapp3.1\5. Special Cars.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\5. Special Cars\obj\Debug\netcoreapp3.1\5. Special Cars.genruntimeconfig.cache

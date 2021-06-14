@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.genruntimeconfig.cache

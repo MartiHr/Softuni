@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.genruntimeconfig.cache

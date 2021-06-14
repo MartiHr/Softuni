@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\04. Car Engine And Tires\bin\Debug\netcoreapp3.1\04. Car Engine And Tires.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\04. Car Engine And Tires\bin\Debug\netcoreapp3.1\04. Car Engine And Tires.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\04. Car Engine And Tires\bin\Debug\netcoreapp3.1\04. Car Engine And Tires.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\04. Car Engine And Tires\bin\Debug\netcoreapp3.1\04. Car Engine And Tires.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\04. Car Engine And Tires\bin\Debug\netcoreapp3.1\04. Car Engine And Tires.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\04. Car Engine And Tires\bin\Debug\netcoreapp3.1\04. Car Engine And Tires.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\04. Car Engine And Tires\obj\Debug\netcoreapp3.1\04. Car Engine And Tires.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\04. Car Engine And Tires\obj\Debug\netcoreapp3.1\04. Car Engine And Tires.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\04. Car Engine And Tires\obj\Debug\netcoreapp3.1\04. Car Engine And Tires.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\04. Car Engine And Tires\obj\Debug\netcoreapp3.1\04. Car Engine And Tires.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\04. Car Engine And Tires\obj\Debug\netcoreapp3.1\04. Car Engine And Tires.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\04. Car Engine And Tires\obj\Debug\netcoreapp3.1\04. Car Engine And Tires.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Defining Classes\04. Car Engine And Tires\obj\Debug\netcoreapp3.1\04. Car Engine And Tires.genruntimeconfig.cache

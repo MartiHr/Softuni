@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.genruntimeconfig.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.csprojAssemblyReference.cache

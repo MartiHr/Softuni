@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.genruntimeconfig.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.csprojAssemblyReference.cache

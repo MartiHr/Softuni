@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.genruntimeconfig.cache

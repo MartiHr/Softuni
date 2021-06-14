@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.genruntimeconfig.cache

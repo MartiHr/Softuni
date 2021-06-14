@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Defining Classes\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.genruntimeconfig.cache

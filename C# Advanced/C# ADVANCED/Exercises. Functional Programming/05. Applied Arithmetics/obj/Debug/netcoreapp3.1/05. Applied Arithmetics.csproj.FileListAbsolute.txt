@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.genruntimeconfig.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercises. Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.csprojAssemblyReference.cache
