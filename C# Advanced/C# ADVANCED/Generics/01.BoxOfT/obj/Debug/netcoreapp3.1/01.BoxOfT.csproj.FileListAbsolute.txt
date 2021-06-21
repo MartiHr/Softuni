@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Generics\01.BoxOfT\obj\Debug\netcoreapp3.1\01.BoxOfT.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Generics\01.BoxOfT\obj\Debug\netcoreapp3.1\01.BoxOfT.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Generics\01.BoxOfT\obj\Debug\netcoreapp3.1\01.BoxOfT.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Generics\01.BoxOfT\obj\Debug\netcoreapp3.1\01.BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Generics\01.BoxOfT\bin\Debug\netcoreapp3.1\01.BoxOfT.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Generics\01.BoxOfT\bin\Debug\netcoreapp3.1\01.BoxOfT.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Generics\01.BoxOfT\bin\Debug\netcoreapp3.1\01.BoxOfT.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Generics\01.BoxOfT\bin\Debug\netcoreapp3.1\01.BoxOfT.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Generics\01.BoxOfT\bin\Debug\netcoreapp3.1\01.BoxOfT.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Generics\01.BoxOfT\bin\Debug\netcoreapp3.1\01.BoxOfT.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Generics\01.BoxOfT\obj\Debug\netcoreapp3.1\01.BoxOfT.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Generics\01.BoxOfT\obj\Debug\netcoreapp3.1\01.BoxOfT.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Generics\01.BoxOfT\obj\Debug\netcoreapp3.1\01.BoxOfT.genruntimeconfig.cache
