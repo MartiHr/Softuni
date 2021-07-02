@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.genruntimeconfig.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Iterators and Comparators\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Iterators and Comparators\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Iterators and Comparators\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Iterators and Comparators\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Iterators and Comparators\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Iterators and Comparators\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Iterators and Comparators\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Iterators and Comparators\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Iterators and Comparators\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Iterators and Comparators\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Iterators and Comparators\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Iterators and Comparators\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise. Iterators and Comparators\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.genruntimeconfig.cache

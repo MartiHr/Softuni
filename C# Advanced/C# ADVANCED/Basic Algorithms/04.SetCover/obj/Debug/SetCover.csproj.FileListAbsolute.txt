@@ -1,0 +1,7 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Basic Algorithms\04.SetCover\bin\Debug\SetCover.exe.config
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Basic Algorithms\04.SetCover\bin\Debug\SetCover.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Basic Algorithms\04.SetCover\bin\Debug\SetCover.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Basic Algorithms\04.SetCover\obj\Debug\SetCover.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Basic Algorithms\04.SetCover\obj\Debug\SetCover.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Basic Algorithms\04.SetCover\obj\Debug\SetCover.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Basic Algorithms\04.SetCover\obj\Debug\SetCover.pdb

@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Iterators and Comparators\02.LibraryIterator\bin\Debug\netcoreapp3.1\02.LibraryIterator.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Iterators and Comparators\02.LibraryIterator\bin\Debug\netcoreapp3.1\02.LibraryIterator.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Iterators and Comparators\02.LibraryIterator\bin\Debug\netcoreapp3.1\02.LibraryIterator.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Iterators and Comparators\02.LibraryIterator\bin\Debug\netcoreapp3.1\02.LibraryIterator.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Iterators and Comparators\02.LibraryIterator\bin\Debug\netcoreapp3.1\02.LibraryIterator.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Iterators and Comparators\02.LibraryIterator\bin\Debug\netcoreapp3.1\02.LibraryIterator.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Iterators and Comparators\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Iterators and Comparators\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Iterators and Comparators\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Iterators and Comparators\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Iterators and Comparators\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Iterators and Comparators\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Iterators and Comparators\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.genruntimeconfig.cache

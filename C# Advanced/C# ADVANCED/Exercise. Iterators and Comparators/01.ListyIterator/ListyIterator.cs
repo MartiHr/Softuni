@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace _01.ListyIterator
+{
+    public class ListyIterator<T>
+    {
+        private readonly List<T> data = new List<T>();
+
+        public int internalIndex { get; private set; }
+
+        public ListyIterator(params T[] data)
+        {
+            this.data = new List<T>(data);
+        }
+
+        public bool HasNext()
+        {
+            return internalIndex < data.Count - 1;
+        }
+
+        public bool Move()
+        {
+            if (HasNext())
+            {
+                internalIndex++;
+                return true;
+            }
+
+            return false;
+        }
+
+        public void Print()
+        {
+            if (data.Count == 0)
+            {
+                throw new InvalidOperationException("Invalid operation!");
+            }
+
+            Console.WriteLine(data[internalIndex]);
+        }
+    }
+}

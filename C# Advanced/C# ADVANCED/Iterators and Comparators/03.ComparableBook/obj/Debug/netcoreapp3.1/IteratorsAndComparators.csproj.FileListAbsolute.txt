@@ -1,0 +1,4 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Iterators and Comparators\01.Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Iterators and Comparators\01.Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Iterators and Comparators\01.Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Iterators and Comparators\01.Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csproj.CoreCompileInputs.cache

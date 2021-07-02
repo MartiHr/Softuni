@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# ADVANCED\Exercise.IteratorsAndComparators\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.genruntimeconfig.cache
