@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\SOLID\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\SOLID\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\SOLID\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\SOLID\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\SOLID\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\SOLID\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\SOLID\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\SOLID\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\SOLID\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\SOLID\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\SOLID\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\SOLID\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\SOLID\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.genruntimeconfig.cache

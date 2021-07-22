@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.genruntimeconfig.cache

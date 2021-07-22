@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.genruntimeconfig.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\03.Shapes\bin\Debug\netcoreapp3.1\03.Shapes.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\03.Shapes\bin\Debug\netcoreapp3.1\03.Shapes.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\03.Shapes\bin\Debug\netcoreapp3.1\03.Shapes.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\03.Shapes\bin\Debug\netcoreapp3.1\03.Shapes.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\03.Shapes\bin\Debug\netcoreapp3.1\03.Shapes.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\03.Shapes\bin\Debug\netcoreapp3.1\03.Shapes.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.pdb

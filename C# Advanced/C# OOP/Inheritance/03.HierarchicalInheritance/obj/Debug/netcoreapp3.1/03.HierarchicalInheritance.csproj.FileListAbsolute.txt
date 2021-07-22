@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\Farm.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\Farm.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\Farm.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\Farm.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\Farm.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\Farm.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\07.MilitaryElite\bin\Debug\netcoreapp3.1\07.MilitaryElite.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\07.MilitaryElite\bin\Debug\netcoreapp3.1\07.MilitaryElite.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\07.MilitaryElite\bin\Debug\netcoreapp3.1\07.MilitaryElite.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\07.MilitaryElite\bin\Debug\netcoreapp3.1\07.MilitaryElite.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\07.MilitaryElite\bin\Debug\netcoreapp3.1\07.MilitaryElite.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\07.MilitaryElite\bin\Debug\netcoreapp3.1\07.MilitaryElite.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\07.MilitaryElite\obj\Debug\netcoreapp3.1\07.MilitaryElite.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\07.MilitaryElite\obj\Debug\netcoreapp3.1\07.MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\07.MilitaryElite\obj\Debug\netcoreapp3.1\07.MilitaryElite.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\07.MilitaryElite\obj\Debug\netcoreapp3.1\07.MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\07.MilitaryElite\obj\Debug\netcoreapp3.1\07.MilitaryElite.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\07.MilitaryElite\obj\Debug\netcoreapp3.1\07.MilitaryElite.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\07.MilitaryElite\obj\Debug\netcoreapp3.1\07.MilitaryElite.genruntimeconfig.cache

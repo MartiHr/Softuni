@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.genruntimeconfig.cache

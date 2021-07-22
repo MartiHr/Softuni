@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation\04.Team\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation\04.Team\bin\Debug\netcoreapp3.1\PersonsInfo.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation\04.Team\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation\04.Team\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation\04.Team\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation\04.Team\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation\04.Team\obj\Debug\netcoreapp3.1\PersonsInfo.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation\04.Team\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\01.SquareRoot\bin\Debug\netcoreapp3.1\01.SquareRoot.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\01.SquareRoot\bin\Debug\netcoreapp3.1\01.SquareRoot.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\01.SquareRoot\bin\Debug\netcoreapp3.1\01.SquareRoot.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\01.SquareRoot\bin\Debug\netcoreapp3.1\01.SquareRoot.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\01.SquareRoot\bin\Debug\netcoreapp3.1\01.SquareRoot.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\01.SquareRoot\bin\Debug\netcoreapp3.1\01.SquareRoot.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.genruntimeconfig.cache

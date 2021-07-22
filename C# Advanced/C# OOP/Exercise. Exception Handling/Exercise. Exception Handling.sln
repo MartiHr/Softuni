@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SquareRoot", "01.SquareRoot\01.SquareRoot.csproj", "{327AFEA5-7581-47D9-82DD-9302CEDCED8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.EnterNumbers", "02.EnterNumbers\02.EnterNumbers.csproj", "{39804DC1-1BC1-4392-ADF2-739DD5A8A83A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Fixing", "03.Fixing\03.Fixing.csproj", "{FE8724AB-5DA5-407B-80AD-DAB4DA4B6566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FixingVol2", "04.FixingVol2\04.FixingVol2.csproj", "{C62E3C42-7658-417D-9E45-B4B3360FD920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Convert.ToDouble", "05.Convert.ToDouble\05.Convert.ToDouble.csproj", "{865AA3C8-E506-40F3-9917-2E7E8AAC96B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ValidPerson", "06.ValidPerson\06.ValidPerson.csproj", "{E3CEF698-A602-4374-9B27-59F7E0EC7576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.CustomException", "07.CustomException\07.CustomException.csproj", "{EEBA791B-01DD-44F2-8494-BA5BC2C4F056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{327AFEA5-7581-47D9-82DD-9302CEDCED8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327AFEA5-7581-47D9-82DD-9302CEDCED8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327AFEA5-7581-47D9-82DD-9302CEDCED8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327AFEA5-7581-47D9-82DD-9302CEDCED8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39804DC1-1BC1-4392-ADF2-739DD5A8A83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39804DC1-1BC1-4392-ADF2-739DD5A8A83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39804DC1-1BC1-4392-ADF2-739DD5A8A83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39804DC1-1BC1-4392-ADF2-739DD5A8A83A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8724AB-5DA5-407B-80AD-DAB4DA4B6566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8724AB-5DA5-407B-80AD-DAB4DA4B6566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8724AB-5DA5-407B-80AD-DAB4DA4B6566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8724AB-5DA5-407B-80AD-DAB4DA4B6566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C62E3C42-7658-417D-9E45-B4B3360FD920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62E3C42-7658-417D-9E45-B4B3360FD920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62E3C42-7658-417D-9E45-B4B3360FD920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62E3C42-7658-417D-9E45-B4B3360FD920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{865AA3C8-E506-40F3-9917-2E7E8AAC96B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865AA3C8-E506-40F3-9917-2E7E8AAC96B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865AA3C8-E506-40F3-9917-2E7E8AAC96B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865AA3C8-E506-40F3-9917-2E7E8AAC96B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CEF698-A602-4374-9B27-59F7E0EC7576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CEF698-A602-4374-9B27-59F7E0EC7576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CEF698-A602-4374-9B27-59F7E0EC7576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CEF698-A602-4374-9B27-59F7E0EC7576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEBA791B-01DD-44F2-8494-BA5BC2C4F056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBA791B-01DD-44F2-8494-BA5BC2C4F056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBA791B-01DD-44F2-8494-BA5BC2C4F056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBA791B-01DD-44F2-8494-BA5BC2C4F056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D58F046D-3394-4F5E-8CFC-416BFE3BB68E}
+	EndGlobalSection
+EndGlobal

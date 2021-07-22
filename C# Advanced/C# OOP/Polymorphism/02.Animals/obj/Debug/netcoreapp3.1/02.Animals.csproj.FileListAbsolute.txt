@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\02.Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\02.Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\02.Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\02.Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\02.Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\02.Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\02.Animals\obj\Debug\netcoreapp3.1\02.Animals.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\02.Animals\obj\Debug\netcoreapp3.1\02.Animals.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\02.Animals\obj\Debug\netcoreapp3.1\02.Animals.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\02.Animals\obj\Debug\netcoreapp3.1\02.Animals.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\02.Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\02.Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\02.Animals\obj\Debug\netcoreapp3.1\02.Animals.genruntimeconfig.cache

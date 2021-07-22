@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.genruntimeconfig.cache

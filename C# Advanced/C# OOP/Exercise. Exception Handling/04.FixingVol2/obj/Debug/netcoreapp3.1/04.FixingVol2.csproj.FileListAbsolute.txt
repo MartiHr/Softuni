@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\04.FixingVol2\bin\Debug\netcoreapp3.1\04.FixingVol2.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\04.FixingVol2\bin\Debug\netcoreapp3.1\04.FixingVol2.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\04.FixingVol2\bin\Debug\netcoreapp3.1\04.FixingVol2.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\04.FixingVol2\bin\Debug\netcoreapp3.1\04.FixingVol2.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\04.FixingVol2\bin\Debug\netcoreapp3.1\04.FixingVol2.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\04.FixingVol2\bin\Debug\netcoreapp3.1\04.FixingVol2.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\04.FixingVol2\obj\Debug\netcoreapp3.1\04.FixingVol2.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\04.FixingVol2\obj\Debug\netcoreapp3.1\04.FixingVol2.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\04.FixingVol2\obj\Debug\netcoreapp3.1\04.FixingVol2.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\04.FixingVol2\obj\Debug\netcoreapp3.1\04.FixingVol2.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\04.FixingVol2\obj\Debug\netcoreapp3.1\04.FixingVol2.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\04.FixingVol2\obj\Debug\netcoreapp3.1\04.FixingVol2.genruntimeconfig.cache

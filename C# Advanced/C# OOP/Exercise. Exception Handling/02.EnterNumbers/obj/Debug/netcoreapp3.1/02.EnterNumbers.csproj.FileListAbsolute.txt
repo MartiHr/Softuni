@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\02.EnterNumbers\bin\Debug\netcoreapp3.1\02.EnterNumbers.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\02.EnterNumbers\bin\Debug\netcoreapp3.1\02.EnterNumbers.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\02.EnterNumbers\bin\Debug\netcoreapp3.1\02.EnterNumbers.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\02.EnterNumbers\bin\Debug\netcoreapp3.1\02.EnterNumbers.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\02.EnterNumbers\bin\Debug\netcoreapp3.1\02.EnterNumbers.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\02.EnterNumbers\bin\Debug\netcoreapp3.1\02.EnterNumbers.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Exception Handling\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.genruntimeconfig.cache

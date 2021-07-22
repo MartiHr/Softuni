@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\01.MathOperations\obj\Debug\netcoreapp3.1\01.MathOperations.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\01.MathOperations\obj\Debug\netcoreapp3.1\01.MathOperations.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\01.MathOperations\obj\Debug\netcoreapp3.1\01.MathOperations.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\01.MathOperations\obj\Debug\netcoreapp3.1\01.MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\01.MathOperations\bin\Debug\netcoreapp3.1\Operations.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\01.MathOperations\bin\Debug\netcoreapp3.1\Operations.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\01.MathOperations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\01.MathOperations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\01.MathOperations\bin\Debug\netcoreapp3.1\Operations.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\01.MathOperations\bin\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\01.MathOperations\obj\Debug\netcoreapp3.1\Operations.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\01.MathOperations\obj\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism\01.MathOperations\obj\Debug\netcoreapp3.1\01.MathOperations.genruntimeconfig.cache

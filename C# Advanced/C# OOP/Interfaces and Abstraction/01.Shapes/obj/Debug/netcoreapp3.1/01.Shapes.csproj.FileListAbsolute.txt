@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\01.Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\01.Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\01.Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\01.Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\01.Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\01.Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\01.Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\01.Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.genruntimeconfig.cache

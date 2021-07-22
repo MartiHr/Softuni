@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\02.Cars\bin\Debug\netcoreapp3.1\Cars.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\02.Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\02.Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\02.Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\02.Cars\bin\Debug\netcoreapp3.1\Cars.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\02.Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\02.Cars\obj\Debug\netcoreapp3.1\Cars.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\02.Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.genruntimeconfig.cache

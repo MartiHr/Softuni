@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.genruntimeconfig.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\02.MultipleImplementation\bin\Debug\netcoreapp3.1\PersonInfo.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\02.MultipleImplementation\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\02.MultipleImplementation\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\02.MultipleImplementation\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\02.MultipleImplementation\bin\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\02.MultipleImplementation\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp3.1\PersonInfo.pdb
