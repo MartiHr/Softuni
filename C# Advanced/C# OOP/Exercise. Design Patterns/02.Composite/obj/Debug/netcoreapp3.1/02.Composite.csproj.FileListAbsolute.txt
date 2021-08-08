@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\02.Composite\bin\Debug\netcoreapp3.1\02.Composite.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\02.Composite\bin\Debug\netcoreapp3.1\02.Composite.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\02.Composite\bin\Debug\netcoreapp3.1\02.Composite.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\02.Composite\bin\Debug\netcoreapp3.1\02.Composite.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\02.Composite\bin\Debug\netcoreapp3.1\02.Composite.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\02.Composite\bin\Debug\netcoreapp3.1\02.Composite.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\02.Composite\obj\Debug\netcoreapp3.1\02.Composite.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\02.Composite\obj\Debug\netcoreapp3.1\02.Composite.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\02.Composite\obj\Debug\netcoreapp3.1\02.Composite.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\02.Composite\obj\Debug\netcoreapp3.1\02.Composite.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\02.Composite\obj\Debug\netcoreapp3.1\02.Composite.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\02.Composite\obj\Debug\netcoreapp3.1\02.Composite.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\02.Composite\obj\Debug\netcoreapp3.1\02.Composite.genruntimeconfig.cache

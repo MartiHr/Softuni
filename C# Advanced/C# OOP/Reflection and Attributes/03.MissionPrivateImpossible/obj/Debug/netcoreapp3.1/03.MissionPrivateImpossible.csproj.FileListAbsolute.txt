@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\Stealer.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\Stealer.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\Stealer.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\Stealer.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\Stealer.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\Stealer.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.genruntimeconfig.cache

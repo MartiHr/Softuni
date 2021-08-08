@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing\01. Test Axe\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing\01. Test Axe\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing\01. Test Axe\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing\01. Test Axe\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing\01. Test Axe\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing\01. Test Axe\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing\01. Test Axe\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing\01. Test Axe\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing\01. Test Axe\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing\01. Test Axe\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing\01. Test Axe\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing\01. Test Axe\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing\01. Test Axe\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache

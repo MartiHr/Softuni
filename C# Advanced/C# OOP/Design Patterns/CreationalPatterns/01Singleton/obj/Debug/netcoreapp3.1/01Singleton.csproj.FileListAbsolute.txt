@@ -1,0 +1,11 @@
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\01Singleton\bin\Debug\netcoreapp3.1\01Singleton.exe
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\01Singleton\bin\Debug\netcoreapp3.1\01Singleton.deps.json
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\01Singleton\bin\Debug\netcoreapp3.1\01Singleton.runtimeconfig.json
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\01Singleton\bin\Debug\netcoreapp3.1\01Singleton.runtimeconfig.dev.json
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\01Singleton\bin\Debug\netcoreapp3.1\01Singleton.dll
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\01Singleton\bin\Debug\netcoreapp3.1\01Singleton.pdb
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\01Singleton\obj\Debug\netcoreapp3.1\01Singleton.csprojAssemblyReference.cache
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\01Singleton\obj\Debug\netcoreapp3.1\01Singleton.AssemblyInfoInputs.cache
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\01Singleton\obj\Debug\netcoreapp3.1\01Singleton.AssemblyInfo.cs
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\01Singleton\obj\Debug\netcoreapp3.1\01Singleton.dll
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\01Singleton\obj\Debug\netcoreapp3.1\01Singleton.pdb

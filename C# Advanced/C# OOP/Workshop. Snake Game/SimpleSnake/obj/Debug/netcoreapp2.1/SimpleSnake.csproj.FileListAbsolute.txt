@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Workshop. Snake Game\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Workshop. Snake Game\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Workshop. Snake Game\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Workshop. Snake Game\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Workshop. Snake Game\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Workshop. Snake Game\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Workshop. Snake Game\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Workshop. Snake Game\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Workshop. Snake Game\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Workshop. Snake Game\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Workshop. Snake Game\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Workshop. Snake Game\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.genruntimeconfig.cache

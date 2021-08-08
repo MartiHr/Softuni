@@ -1,0 +1,9 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\07DI\bin\Debug\netcoreapp2.2\07DI.deps.json
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\07DI\bin\Debug\netcoreapp2.2\07DI.runtimeconfig.json
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\07DI\bin\Debug\netcoreapp2.2\07DI.runtimeconfig.dev.json
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\07DI\bin\Debug\netcoreapp2.2\07DI.dll
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\07DI\bin\Debug\netcoreapp2.2\07DI.pdb
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\07DI\obj\Debug\netcoreapp2.2\07DI.csprojAssemblyReference.cache
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\07DI\obj\Debug\netcoreapp2.2\07DI.csproj.CoreCompileInputs.cache
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\07DI\obj\Debug\netcoreapp2.2\07DI.AssemblyInfoInputs.cache
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\07DI\obj\Debug\netcoreapp2.2\07DI.AssemblyInfo.cs
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\07DI\obj\Debug\netcoreapp2.2\07DI.dll
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\07DI\obj\Debug\netcoreapp2.2\07DI.pdb

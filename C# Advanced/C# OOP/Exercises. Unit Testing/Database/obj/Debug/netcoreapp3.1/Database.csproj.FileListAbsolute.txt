@@ -1,0 +1,9 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\Database\obj\Debug\netcoreapp3.1\Database.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\Database\obj\Debug\netcoreapp3.1\Database.csproj.AssemblyReference.cache

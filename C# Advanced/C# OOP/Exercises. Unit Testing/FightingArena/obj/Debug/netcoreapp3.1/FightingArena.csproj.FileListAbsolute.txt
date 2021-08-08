@@ -1,0 +1,9 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercises. Unit Testing\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.AssemblyReference.cache

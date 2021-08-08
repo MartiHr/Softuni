@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exam preparation\01. Structure && 02. Business Logic\obj\Debug\netcoreapp3.1\WarCroft.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exam preparation\01. Structure && 02. Business Logic\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exam preparation\01. Structure && 02. Business Logic\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exam preparation\01. Structure && 02. Business Logic\obj\Debug\netcoreapp3.1\WarCroft.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exam preparation\01. Structure && 02. Business Logic\bin\Debug\netcoreapp3.1\WarCroft.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exam preparation\01. Structure && 02. Business Logic\bin\Debug\netcoreapp3.1\WarCroft.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exam preparation\01. Structure && 02. Business Logic\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exam preparation\01. Structure && 02. Business Logic\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exam preparation\01. Structure && 02. Business Logic\bin\Debug\netcoreapp3.1\WarCroft.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exam preparation\01. Structure && 02. Business Logic\bin\Debug\netcoreapp3.1\WarCroft.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exam preparation\01. Structure && 02. Business Logic\obj\Debug\netcoreapp3.1\WarCroft.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exam preparation\01. Structure && 02. Business Logic\obj\Debug\netcoreapp3.1\WarCroft.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exam preparation\01. Structure && 02. Business Logic\obj\Debug\netcoreapp3.1\WarCroft.genruntimeconfig.cache

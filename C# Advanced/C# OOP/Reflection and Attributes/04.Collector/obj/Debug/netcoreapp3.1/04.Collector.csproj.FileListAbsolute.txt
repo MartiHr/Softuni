@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\04.Collector\bin\Debug\netcoreapp3.1\Stealer.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\04.Collector\bin\Debug\netcoreapp3.1\Stealer.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\04.Collector\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\04.Collector\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\04.Collector\bin\Debug\netcoreapp3.1\Stealer.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\04.Collector\bin\Debug\netcoreapp3.1\Stealer.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\04.Collector\obj\Debug\netcoreapp3.1\Stealer.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\04.Collector\obj\Debug\netcoreapp3.1\Stealer.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.genruntimeconfig.cache

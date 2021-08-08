@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\01.PrototypePattern\bin\Debug\netcoreapp3.1\01.PrototypePattern.exe
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\01.PrototypePattern\bin\Debug\netcoreapp3.1\01.PrototypePattern.deps.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\01.PrototypePattern\bin\Debug\netcoreapp3.1\01.PrototypePattern.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\01.PrototypePattern\bin\Debug\netcoreapp3.1\01.PrototypePattern.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\01.PrototypePattern\bin\Debug\netcoreapp3.1\01.PrototypePattern.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\01.PrototypePattern\bin\Debug\netcoreapp3.1\01.PrototypePattern.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\01.PrototypePattern\obj\Debug\netcoreapp3.1\01.PrototypePattern.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\01.PrototypePattern\obj\Debug\netcoreapp3.1\01.PrototypePattern.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\01.PrototypePattern\obj\Debug\netcoreapp3.1\01.PrototypePattern.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\01.PrototypePattern\obj\Debug\netcoreapp3.1\01.PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\01.PrototypePattern\obj\Debug\netcoreapp3.1\01.PrototypePattern.dll
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\01.PrototypePattern\obj\Debug\netcoreapp3.1\01.PrototypePattern.pdb
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Exercise. Design Patterns\01.PrototypePattern\obj\Debug\netcoreapp3.1\01.PrototypePattern.genruntimeconfig.cache

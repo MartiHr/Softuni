@@ -1,0 +1,11 @@
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\05Builder\bin\Debug\netcoreapp3.1\05Builder.exe
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\05Builder\bin\Debug\netcoreapp3.1\05Builder.deps.json
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\05Builder\bin\Debug\netcoreapp3.1\05Builder.runtimeconfig.json
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\05Builder\bin\Debug\netcoreapp3.1\05Builder.runtimeconfig.dev.json
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\05Builder\bin\Debug\netcoreapp3.1\05Builder.dll
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\05Builder\bin\Debug\netcoreapp3.1\05Builder.pdb
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\05Builder\obj\Debug\netcoreapp3.1\05Builder.csprojAssemblyReference.cache
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\05Builder\obj\Debug\netcoreapp3.1\05Builder.AssemblyInfoInputs.cache
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\05Builder\obj\Debug\netcoreapp3.1\05Builder.AssemblyInfo.cs
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\05Builder\obj\Debug\netcoreapp3.1\05Builder.dll
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\05Builder\obj\Debug\netcoreapp3.1\05Builder.pdb
