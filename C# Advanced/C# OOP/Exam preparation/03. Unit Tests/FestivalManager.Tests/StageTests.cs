@@ -3,94 +3,137 @@
 // Test ONLY the Stage class. 
 namespace FestivalManager.Tests
 {
-    using FestivalManager.Entities;
     using NUnit.Framework;
     using System;
+    using System.Linq;
 
-	[TestFixture]
+    [TestFixture]
 	public class StageTests
-	{
+    {
 		private Stage stage;
 
-		[SetUp]
-		public void SetUp()
+		[Test]
+	    public void Ctor_ProperInit()
+	    {
+			Stage stage = new Stage();
+			Assert.AreNotEqual(null, stage.Performers);
+			Assert.DoesNotThrow(() => stage.AddSong(new Song("Gosho", new TimeSpan(1, 0, 0))));
+		}
+
+		[Test]
+		public void Ctor_ImproperInit()
         {
-			stage = new Stage();
+			Assert.Throws<NullReferenceException>(() => stage.Performers.GetEnumerator());
         }
 
 		[Test]
-	    public void Ctor_ProperInitialization()
-	    {
-			stage = new Stage();
+		public void AddPerformer_Properly()
+        {
+			Stage stage = new Stage();
+			stage.AddPerformer(new Performer("Gosho", "Petkov", 20));
 
-			Assert.AreNotEqual(stage.Performers, null);
+			Assert.AreEqual(1, stage.Performers.Count);
 		}
 
 		[Test]
-		public void Performers_GetterMethod()
+		public void AddPerformer_Null()
 		{
-			Assert.AreNotEqual(stage.Performers, null);
-		}
-
-		[Test]
-		public void AddPerformer_PerformerIsNull()
-		{
+			Stage stage = new Stage();
 			Assert.That(() => stage.AddPerformer(null), Throws.ArgumentNullException);
 		}
 
 		[Test]
-		public void AddPerformer_PerformerAgeIsBellow18()
+		public void AddPerformer_SmallerThan18()
 		{
-			Performer performer = new Performer("Gosho", "Petkov", 10);
-			Assert.That(() => stage.AddPerformer(performer), Throws.ArgumentException);
+			Stage stage = new Stage();
+			Assert.Throws<ArgumentException>(() => stage.AddPerformer(new Performer("Gosho", "Petkov", 15)));
 		}
 
 		[Test]
-		public void AddPerformer_ValidPerformer()
+		public void AddSong_Null()
+        {
+			Stage stage = new Stage();
+
+			Assert.Throws<ArgumentNullException>(() => stage.AddSong(null));
+        }
+
+		[Test]
+		public void AddSong_SmallSong()
 		{
-			Performer performer = new Performer("Gosho", "Chuka", 21);
+			Stage stage = new Stage();
+			Song song = new Song("RickRoll", new TimeSpan(0, 0, 30));
+
+			Assert.Throws<ArgumentException>(() => stage.AddSong(song));
+		}
+
+		[Test]
+		public void AddSong_Properply()
+		{
+			Stage stage = new Stage();
+			Song song = new Song("RickRoll", new TimeSpan(0, 1, 30));
+			stage.AddSong(song);
+			Performer performer = new Performer("Gosho", "Petkov", 20);
 			stage.AddPerformer(performer);
 
-			Assert.AreEqual(stage.Performers.Count, 1);
+			stage.AddSongToPerformer(song.Name, performer.FullName);
+
+			Performer performerToCheck = stage.Performers.FirstOrDefault(x => x.FullName == performer.FullName);
+
+			Assert.AreEqual(1, performerToCheck.SongList.Count);
 		}
 
 		[Test]
-		public void AddSong_SongIsNull()
-		{
-			Assert.That(() => stage.AddSong(null), Throws.ArgumentNullException);
-		}
-
-		[Test]
-		public void AddSong_DurationIsLessThanAMinute()
-		{
-			TimeSpan timeSpan = new TimeSpan(0, 0, 1);
-			Song song = new Song("Rickroll", timeSpan);
-			Assert.That(() => stage.AddSong(song), Throws.ArgumentException);
-		}
-
-		[Test]
-		public void AddSong_Valid()
-		{
-			TimeSpan timeSpan = new TimeSpan(0, 2, 1);
-			Song song = new Song("Unravel", timeSpan);
+		public void AddSongToPerformer_Properly()
+        {
+			Stage stage = new Stage();
+			Song song = new Song("RickRoll", new TimeSpan(0, 1, 30));
 			stage.AddSong(song);
-			Performer performer = new Performer("Gosho", "Chuka", 21);
+			Performer performer = new Performer("Gosho", "Petkov", 20);
+			stage.AddPerformer(performer);
 
 			stage.AddSongToPerformer(song.Name, performer.FullName);
+
+			Performer performerToCheck = stage.Performers.FirstOrDefault(x => x.FullName == performer.FullName);
+
+			Assert.AreNotEqual(null, performerToCheck);
 		}
 
 		[Test]
-		public void AddSongToPerformer_HasNullParameters()
-        {
-			Assert.That(() => stage.AddSong(null), Throws.ArgumentNullException);
-			Assert.That(() => stage.AddPerformer(null), Throws.ArgumentNullException);
-		}
-
-		[Test]
-		public void AddSongToPerformer_GetsCorrectPerformer()
+		public void AddSongToPerformer_SongIsNull()
 		{
-			Assert.That(() => stage.AddSong(null), Throws.ArgumentNullException);
-			Assert.That(() => stage.AddPerformer(null), Throws.ArgumentNullException);
+			Stage stage = new Stage();
+			
+			Performer performer = new Performer("Gosho", "Petkov", 20);
+			stage.AddPerformer(performer);
+
+			Assert.Throws<ArgumentNullException>(() => stage.AddSongToPerformer(null, performer.FullName));
 		}
+
+		[Test]
+		public void AddSongToPerformer_PerformerIsNull()
+		{
+			Stage stage = new Stage();
+
+			Song song = new Song("RickRoll", new TimeSpan(0, 1, 30));
+			stage.AddSong(song);
+
+			Assert.Throws<ArgumentNullException>(() => stage.AddSongToPerformer(song.Name, null));
+		}
+
+		[Test]
+		public void Play_Properly()
+		{
+			Stage stage = new Stage();
+
+			Song song = new Song("RickRoll", new TimeSpan(0, 1, 30));
+			stage.AddSong(song);
+			Performer performer = new Performer("Gosho", "Petkov", 20);
+			stage.AddPerformer(performer);
+			stage.AddSongToPerformer(song.Name, performer.FullName);
+
+			string expectedMessage = "1 performers played 1 songs";
+			Assert.AreEqual(expectedMessage, stage.Play());
+		}
+		
 	}
 }

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VDja9C5O6N90EGq7oKKjHw4xN5fwNYy2IAHwMVsJcFrkcojG0tFHSVlefvewQY+Aj4Xnn55D3+nPCzXMhupryA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\SoftUni\\C# Advanced\\C# OOP\\Exam preparation 2\\01. Structure && 02. Business Logic\\AquaShop\\AquaShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
