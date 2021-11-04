@@ -4,10 +4,10 @@ C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\02.H
 C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\02.HighQualityMistakes\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
 C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\02.HighQualityMistakes\bin\Debug\netcoreapp3.1\Stealer.dll
 C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\02.HighQualityMistakes\bin\Debug\netcoreapp3.1\Stealer.pdb
-C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.csprojAssemblyReference.cache
 C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.AssemblyInfoInputs.cache
 C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.AssemblyInfo.cs
 C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.csproj.CoreCompileInputs.cache
 C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\Stealer.dll
 C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\Stealer.pdb
 C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.genruntimeconfig.cache
+C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.csproj.AssemblyReference.cache

@@ -4,7 +4,6 @@ C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\01.S
 C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\01.Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
 C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\01.Stealer\bin\Debug\netcoreapp3.1\Stealer.dll
 C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\01.Stealer\bin\Debug\netcoreapp3.1\Stealer.pdb
-C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\01.Stealer\obj\Debug\netcoreapp3.1\01.Stealer.csprojAssemblyReference.cache
 C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\01.Stealer\obj\Debug\netcoreapp3.1\01.Stealer.AssemblyInfoInputs.cache
 C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\01.Stealer\obj\Debug\netcoreapp3.1\01.Stealer.AssemblyInfo.cs
 C:\Users\marti\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes\01.Stealer\obj\Debug\netcoreapp3.1\01.Stealer.csproj.CoreCompileInputs.cache

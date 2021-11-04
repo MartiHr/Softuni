@@ -1,0 +1,4 @@
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercises. Entity Relations\03. Football Betting\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercises. Entity Relations\03. Football Betting\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercises. Entity Relations\03. Football Betting\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercises. Entity Relations\03. Football Betting\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.csproj.CoreCompileInputs.cache
