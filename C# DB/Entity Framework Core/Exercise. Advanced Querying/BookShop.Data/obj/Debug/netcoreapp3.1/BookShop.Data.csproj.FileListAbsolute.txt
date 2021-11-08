@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.deps.json
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CopyComplete
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.dll
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.pdb
