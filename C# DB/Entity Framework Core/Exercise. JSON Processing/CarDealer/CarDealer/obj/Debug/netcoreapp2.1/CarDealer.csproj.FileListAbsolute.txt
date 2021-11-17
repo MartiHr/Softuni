@@ -1,0 +1,17 @@
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. JSON Processing\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\Datasets\customers.json
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. JSON Processing\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\Datasets\parts.json
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. JSON Processing\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\Datasets\sales.json
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. JSON Processing\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\Datasets\suppliers.json
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. JSON Processing\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. JSON Processing\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. JSON Processing\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. JSON Processing\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. JSON Processing\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. JSON Processing\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. JSON Processing\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. JSON Processing\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. JSON Processing\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. JSON Processing\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. JSON Processing\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. JSON Processing\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. JSON Processing\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\Datasets\cars.json
