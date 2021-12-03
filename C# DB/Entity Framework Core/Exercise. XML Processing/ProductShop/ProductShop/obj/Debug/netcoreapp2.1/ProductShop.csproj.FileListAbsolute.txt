@@ -1,0 +1,16 @@
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. XML Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. XML Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. XML Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. XML Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. XML Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\Datasets\categories-products.xml
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. XML Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\Datasets\categories.xml
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. XML Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\Datasets\products.xml
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. XML Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\Datasets\users.xml
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. XML Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. XML Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. XML Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. XML Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. XML Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. XML Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. XML Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Users\marti\Desktop\SoftUni\C# DB\Entity Framework Core\Exercise. XML Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
