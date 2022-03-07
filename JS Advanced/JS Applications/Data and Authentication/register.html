@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My Cookbook</title>
+    <link rel="stylesheet" href="static/site.css">
+    <link rel="stylesheet" href="static/recipe.css">
+    <link rel="stylesheet" href="static/form.css">
+</head>
+
+<body>
+    <header>
+        <h1>My Cookbook</h1>
+        <nav>
+            <a href="index.html">Catalog</a>
+            <a href="login.html">Login</a>
+            <a class="active">Register</a>
+        </nav>
+    </header>
+    <main>
+        <article>
+            <h2>Register</h2>
+            <form>
+                <label>E-mail: <input type="text" name="email"></label>
+                <label>Password: <input type="password" name="password"></label>
+                <label>Repeat: <input type="password" name="rePass"></label>
+                <input type="submit" value="Register">
+            </form>
+        </article>
+    </main>
+
+    <script>
+        const formElement = document.querySelector('form');
+
+        formElement.addEventListener('submit', (e) => {
+            e.preventDefault();
+
+            let formData = new FormData(e.currentTarget);
+
+            let email = formData.get('email');
+            let password = formData.get('password');
+            let rePassword = formData.get('rePass');
+
+            let data = {
+                email,
+                password,
+            }
+
+            if (password != rePassword) {
+                alert('Passwords must match');
+            } else {
+
+                fetch('http://localhost:3030/users/register', {
+                    method: 'POST',
+                    headers: {
+                        'content-type': 'application/json'
+                    },
+                    body: JSON.stringify(data),
+                })
+                .then(res => {
+                    if (res.status != 200) {
+                        throw new Error();
+                    }
+
+                    return res.json();
+                })
+                .then(data => {
+                    localStorage.setItem('accessToken', data.accessToken);
+                    location.href = '/';
+                })
+                .catch(error => alert('Error'));
+            }
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,28 @@
+01. REST Countries
+
+• Request for retrieving information about Bulgaria;
+https://restcountries.eu/rest/v2/name/Bulgaria
+
+• Make a request that retrieving only the fields name, capital, region, population for the country Italy.
+https://restcountries.eu/rest/v2/name/Italy?fields=name;capital;region;population
+
+• Make a request that takes all German-speaking countries.
+https://restcountries.eu/rest/v2/lang/de?fields=name;capital;region;population
+
+02. Bus Stop
+
+http://localhost:3030/jsonstore/bus/businfo
+
+03. Phonebook GET
+
+GET =>  http://localhost:3030/jsonstore/phonebook/phonebook
+
+04. Phonebook POST
+
+POST => http://localhost:3030/jsonstore/phonebook/phonebook
+
+05. Employees 
+
+GET ALL => http://dummy.restapiexample.com/api/v1/employees
+
+GET ONE => http://dummy.restapiexample.com/api/v1/employee/1

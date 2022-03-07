@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\SoftUni\Competitions\Softuniada 27.02.2022\Softuniada 27.02.2022\Problem 4\bin\Debug\netcoreapp3.1\Problem 4.exe
+C:\Users\marti\Desktop\SoftUni\Competitions\Softuniada 27.02.2022\Softuniada 27.02.2022\Problem 4\bin\Debug\netcoreapp3.1\Problem 4.deps.json
+C:\Users\marti\Desktop\SoftUni\Competitions\Softuniada 27.02.2022\Softuniada 27.02.2022\Problem 4\bin\Debug\netcoreapp3.1\Problem 4.runtimeconfig.json
+C:\Users\marti\Desktop\SoftUni\Competitions\Softuniada 27.02.2022\Softuniada 27.02.2022\Problem 4\bin\Debug\netcoreapp3.1\Problem 4.runtimeconfig.dev.json
+C:\Users\marti\Desktop\SoftUni\Competitions\Softuniada 27.02.2022\Softuniada 27.02.2022\Problem 4\bin\Debug\netcoreapp3.1\Problem 4.dll
+C:\Users\marti\Desktop\SoftUni\Competitions\Softuniada 27.02.2022\Softuniada 27.02.2022\Problem 4\bin\Debug\netcoreapp3.1\Problem 4.pdb
+C:\Users\marti\Desktop\SoftUni\Competitions\Softuniada 27.02.2022\Softuniada 27.02.2022\Problem 4\obj\Debug\netcoreapp3.1\Problem 4.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\SoftUni\Competitions\Softuniada 27.02.2022\Softuniada 27.02.2022\Problem 4\obj\Debug\netcoreapp3.1\Problem 4.AssemblyInfo.cs
+C:\Users\marti\Desktop\SoftUni\Competitions\Softuniada 27.02.2022\Softuniada 27.02.2022\Problem 4\obj\Debug\netcoreapp3.1\Problem 4.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SoftUni\Competitions\Softuniada 27.02.2022\Softuniada 27.02.2022\Problem 4\obj\Debug\netcoreapp3.1\Problem 4.dll
+C:\Users\marti\Desktop\SoftUni\Competitions\Softuniada 27.02.2022\Softuniada 27.02.2022\Problem 4\obj\Debug\netcoreapp3.1\Problem 4.pdb
+C:\Users\marti\Desktop\SoftUni\Competitions\Softuniada 27.02.2022\Softuniada 27.02.2022\Problem 4\obj\Debug\netcoreapp3.1\Problem 4.genruntimeconfig.cache
+C:\Users\marti\Desktop\SoftUni\Competitions\Softuniada 27.02.2022\Softuniada 27.02.2022\Problem 4\obj\Debug\netcoreapp3.1\Problem 4.csproj.AssemblyReference.cache
