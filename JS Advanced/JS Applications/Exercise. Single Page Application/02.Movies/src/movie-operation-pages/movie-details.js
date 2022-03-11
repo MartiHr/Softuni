@@ -31,6 +31,18 @@ export async function renderMovieDetails(id) {
             </div>
         </div>`;
 
+    let [deleteAElemenent, editAElement, likeAElement] = movieElement.querySelectorAll('a');
+
+    if (localStorage._id == movieData._ownerId) {
+        deleteAElemenent.style.display = 'inline';
+        editAElement.style.display = 'inline';
+        likeAElement.style.display = 'none';
+    } else {
+        likeAElement.style.display = 'inline';
+        deleteAElemenent.style.display = 'none';
+        editAElement.style.display = 'none';
+    }
+
     movieSectionElement.append(movieElement);
 }
 
