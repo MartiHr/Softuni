@@ -56,7 +56,7 @@ function createMovieElement(movieData) {
                 <h4 class="card-title">${movieData.title}</h4>
             </div>
             <div class="card-footer">
-                <a href="/details/${movieData._ownerId}">
+                <a href="/details">
                     <button type="button" class="btn btn-info">Details</button>
                 </a>
             </div>`;
@@ -66,8 +66,12 @@ function createMovieElement(movieData) {
     detailButtonElement.addEventListener('click', (e) => {
         e.preventDefault();
 
-        showView('/details')
-        renderMovieDetails(movieData._id);
+        if (localStorage.email) {
+            showView('/details')
+            renderMovieDetails(movieData._id);
+        } else {
+            alert('Log in to see details.')
+        }
     });
 
     return movieElement;
