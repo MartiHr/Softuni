@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "lit-html": "^2.2.0"
+  }
+}
