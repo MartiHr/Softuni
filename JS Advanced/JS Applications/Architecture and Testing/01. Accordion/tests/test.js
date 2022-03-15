@@ -1,7 +1,7 @@
 const { chromium } = require('playwright-chromium');
 const { assert } = require('chai');
 
-const accordionUrl = 'http://127.0.0.1:5500/01.%20Accordion/';
+const accordionUrl = 'http://127.0.0.1:5500/01.%20Accordion';
 
 describe('Tests', async function () {
     this.timeout(6000);
