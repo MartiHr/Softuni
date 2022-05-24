@@ -1,0 +1,16 @@
+body {
+    background-color: #e4e978;
+}
+
+.comments {
+    font-style: italic;
+    color: #5c6e91;
+}
+
+article{
+    width: 700px;
+    margin: 15px 10px;
+    padding: 5px 15px;
+    background-color: #f2f4c0;
+    border: 1px solid #b2ad7d;
+}
