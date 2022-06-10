@@ -1,0 +1,123 @@
+table {
+    table-layout: fixed;
+    position: absolute;
+    height: 90%;
+    width: 99%;
+    align-self: center;
+    text-align: center;
+    user-select: none;
+    margin-left: 2px;
+}
+
+table
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+
+td:hover {
+    background-color: lightgray;
+}
+
+i::before {
+    font-size: 50px;
+    align-self: center;
+    color: chocolate;
+}
+
+tbody.fa-chess-queen::before, tr.fa-chess-queen::before {
+    content: none;
+}
+
+tbody.fa-xmark::before, tr.fa-xmark::before{
+    content: none;
+}
+
+.player-one::before {
+        color: royalblue;
+}
+
+.player-two::before {
+    color: brown;
+}
+
+.float button {
+    font-size: 30px;
+    position: fixed;
+    z-index: 999;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    background: lightblue;
+    height: 60px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: 900;
+    box-shadow: 6px 6px 20px #464a4e62, -6px -6px 20px #464a4e62;
+    transition: 0.5s;
+    display: block;
+    width: 100%;
+    padding: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+  }
+
+  
+.float button:hover {
+    box-shadow: none;
+    background-color: coral;
+  }
+
+
+  #home button {
+    font-size: 30px;
+    margin-top: 30px;
+    background: lightblue;
+    height: 60px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: 900;
+    box-shadow: 6px 6px 20px #464a4e62, -6px -6px 20px #464a4e62;
+    transition: 0.5s;
+    display: block;
+    width: 100%;
+    padding: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.fa-circle-xmark::before {
+    color: rebeccapurple;
+}
+
+/* th {
+    text-align: center;
+    align-self: center;
+    width: 100%;
+} */
+
+thead tr {
+    border-bottom: 1px solid black;
+    text-align: center;
+    background-color: royalblue;
+}
+
+#player-turn {
+    margin-top: 0px ;
+    font-weight: bold;
+    border-radius: 20%;
+    display: inline-block;
+    background-color: royalblue;
+    border: 1px solid black;
+    padding: 3px;
+    
+}

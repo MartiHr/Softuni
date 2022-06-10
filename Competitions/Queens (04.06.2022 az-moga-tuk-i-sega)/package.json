@@ -1,0 +1,22 @@
+{
+  "name": "isola-in-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server",
+    "start": "http-server -a localhost -p 3000 -P http://localhost:3000? -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lit-html": "^2.2.5",
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "http-server": "^14.1.0",
+    "page": "^1.11.6"
+  }
+}

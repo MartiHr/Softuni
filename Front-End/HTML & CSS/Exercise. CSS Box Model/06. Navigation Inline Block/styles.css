@@ -1,0 +1,27 @@
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    padding: 40px 40px 40px 40px;
+}
+
+h1 {
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+nav, nav * {
+    display: inline-block;
+    text-decoration: none;
+}
+
+nav li {
+    padding-left: 30px;
+    color: aquamarine;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}

@@ -1,0 +1,134 @@
+body {
+    padding: 100px;
+    font-family: sans-serif;
+    background-color: rgb(238, 238, 238);
+    line-height: 1.5;
+}
+
+/* General  */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Georgia, serif;
+    font-size: 1em/1.2;
+}
+
+img {
+    padding: 15px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.25);
+    border: 5px solid black;
+}
+
+.level1 img {
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+.level3 img {
+    float: left;
+    margin-right: 30px;
+}
+
+article {
+    padding-top: 20px;
+}
+
+/* Navigation part */
+
+header .title {
+    font-weight: bold;
+    vertical-align: bottom;
+    font-size: 64px;
+    text-transform: uppercase;
+    display: inline-block;
+    margin: 0;
+}
+
+.nav {
+    vertical-align: middle;
+    float: right;
+}
+
+.nav ul {
+    list-style-type: none;
+}
+
+.nav ul li {
+    padding-right: 20px;
+    color: green;
+}
+
+.nav,
+.nav ul li {
+    display: inline-block;
+}
+
+hr {
+    border: 2px solid black;
+}
+
+/* Main */
+
+main {
+    display: inline-block;
+    width: 50%;
+}
+
+/* First article */
+
+
+/* Second article */
+
+.level2 section p:nth-child(2) {
+    width: 40%;
+    display: inline-block;
+}
+
+.level2 blockquote {
+    font-family: Georgia, serif;
+    font-style: oblique;
+    color: gray;
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    border-left: 5px solid lightgray;
+    padding-left: 20px;
+}
+
+.level2 blockquote p:nth-child(2) {
+    margin-left: 150px;
+}
+
+
+/* Third article */
+
+
+
+/* Aside */
+
+aside {
+    display: inline-block;
+    vertical-align: top;
+    width: 50px;
+    padding-left: 100px;
+}
+
+aside ul {
+    list-style-type: square;
+}
+
+aside ul li {
+    padding-left: 10px;
+    color: green;
+}
+
+
+aside ul li::marker {
+    color: black;
+}

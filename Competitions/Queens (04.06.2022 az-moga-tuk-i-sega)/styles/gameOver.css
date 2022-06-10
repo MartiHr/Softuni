@@ -1,0 +1,55 @@
+.game-over {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.game-over h2 {
+    text-align: center;
+    font-size: 70px;
+    font-weight: 600;
+    background-image: linear-gradient(to left, #553c9a, #b393d3);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+
+.game-over button {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px solid black;
+    margin-top: 30px;
+    background: lightblue;
+    height: 60px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: 900;
+    box-shadow: 6px 6px 20px #464a4e62, -6px -6px 20px #464a4e62;
+    transition: 0.5s;
+    display: block;
+    width: 100%;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    font-size: 30px;
+}
+
+.game-over button:hover {
+    box-shadow: none;
+    background-color: coral;
+}
+
+#hooray img {
+    width: 20%;   
+}
+
+.end div {
+    border: 3px solid black;
+    border-radius: 30px;
+    width: 800px;
+    height: 300px;
+    background-color: lightcyan;
+}
