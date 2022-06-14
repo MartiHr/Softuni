@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(238, 238, 238);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+}
+
+img {
+    object-fit: cover;
+    width: 100px;
+    height: 300px;
+    border-radius: 12px;
+    box-shadow: 0 0 30px 17px rgba(0,0,0,0.3);
+
+}
+
+.wide-img {
+    width: 400px;
+}

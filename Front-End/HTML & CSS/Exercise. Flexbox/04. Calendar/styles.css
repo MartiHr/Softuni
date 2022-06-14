@@ -1,0 +1,61 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+div, section {
+    display: flex;
+    align-items: center;
+}
+
+div {
+    max-width: 65vw;
+    max-height: 65vw;
+}
+
+span {
+    border:  1px solid black;
+    text-align: center;
+}
+
+.week span {
+    padding-top: 14px;
+}
+
+.container {
+    align-items: stretch;
+}
+
+.week {
+    flex-wrap: wrap;
+    height: 65vh;
+    align-items: stretch;
+}
+
+.week .week-day {
+    width: 20%;
+}
+
+.week .weekend-day {
+    width: 50%;
+}
+
+.week .day-type {
+    width: 65vw;
+}
+
+.notes {
+    flex-direction: column;
+    height: 65vh;
+    align-items: stretch;
+}
+
+.notes span {
+    height: 50%;
+    padding: 5px 24px;
+}

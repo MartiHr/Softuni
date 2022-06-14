@@ -1,0 +1,30 @@
+html {
+    background-color: lightgray;
+}
+
+.image-list {
+    list-style-type: none;
+}
+
+body, .image-list, .image-item {
+    display: flex;
+    justify-content: center;
+}
+
+.image-list {
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 50px
+}
+
+.image-item {
+    width: 30%;
+}
+
+.image-item img {
+    width: 50%;
+    height: 50%;
+    border: 20px solid black;
+    padding: 200px 50px;
+    background-color: white;
+}
