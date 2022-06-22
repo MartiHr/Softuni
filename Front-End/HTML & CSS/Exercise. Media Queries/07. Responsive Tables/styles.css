@@ -1,0 +1,58 @@
+html {
+    font-family: Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+body {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+table, td, th {
+    border: 2px solid lightgray;
+}
+
+.big-screen {
+    display: none;
+}
+
+.phone tr {
+    width: 100%;
+}
+
+tr td span {
+    font-weight: bold;
+}
+
+@media screen and (min-width: 500px) {
+    .big-screen th, td {
+        padding-left: 10px;
+        width: 33%;
+    }
+    
+    table {
+        text-align: left;
+        margin-top: 50px;
+        width: 90%;
+        border-collapse: collapse;
+    }
+    
+    thead {
+        background-color: black;
+        color: white;
+        width: 100%;
+    }
+    
+    .big-screen tr {
+        display: flex;
+    }
+    
+    .big-screen {
+        display: block;
+    }
+
+    .phone {
+        display: none;
+    }
+}
