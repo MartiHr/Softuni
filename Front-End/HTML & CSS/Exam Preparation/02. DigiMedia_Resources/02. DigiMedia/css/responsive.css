@@ -1,0 +1,135 @@
+@media screen and (max-width: 600px) {
+    #home {
+        text-align: center;
+    }
+
+    nav.navbar {
+        display: block;
+    }
+
+    .navbar a.navbar-brand {
+        margin: 0;
+    }
+
+    /* Hero section */
+
+    .container-fluid.hero img {
+        display: none;
+    }
+
+    .container-fluid.hero h1 {
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+
+    .container-fluid.hero p {
+       width: 95%;
+       margin: 0 auto 50px auto;
+    }
+
+
+    article .hero-btns {
+        display: flex;
+        flex-direction: column;
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .container-fluid.hero {
+        margin-bottom: 100px;
+        text-align: center;
+    }
+
+    /* About-us section */
+    #about-us h2 {
+        width: 95%;
+    }
+
+    #about-us .service-txt {
+        text-align: center;
+    }
+
+    #about-us .hero-btns.service-btn{
+        width: 50%;
+        margin: 50px auto;
+    }
+
+    #about-us .hero-btns.service-btn a{
+        display: block;
+    }
+
+    #about-us .row {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #about-us .row>* {
+        max-width: 70%;
+    }
+
+    #about-us .service-box {
+        margin-bottom: 50px;
+    }
+
+    /* About section */
+
+    .about {
+        text-align: center;
+        margin-bottom: 100px;
+    }
+
+    .about .row {
+        justify-content: center;
+    }
+
+    .about .row {
+        gap: 50px;
+    }
+
+    .about .row div:nth-child(2) {
+        max-width: 90%;
+    }
+
+    .about .row div:nth-child(2) p {
+        font-weight: 500;
+        font-size: 1.4rem;
+    }
+
+    /* Contact section */
+
+    #contact-us {
+        text-align: center;
+    }
+
+    #contact-us .contact-btn {
+        display: none;
+    }
+
+    /* Footer */
+
+    footer {
+        text-align: center;
+        padding-top: 5rem;
+    }
+
+    footer ul {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    footer .container .col-12 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+    }
+
+    footer .container h3 {
+        width: 70%;
+    }
+
+    footer .container h6 {
+        padding-bottom: 1rem;
+    }
+}

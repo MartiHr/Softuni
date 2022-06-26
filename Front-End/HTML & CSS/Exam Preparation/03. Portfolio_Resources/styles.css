@@ -1,0 +1,283 @@
+:root {
+    --clr-light-dark: #222222;
+    --clr-super-light: #efefef;
+    --clr-light: #909090;
+    --clr-dark: #111111;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    padding: 2rem;
+    margin: 0;
+}
+
+/* Generic */
+
+body {
+    display: flex;
+    flex-direction: column;
+
+    gap: 2rem;
+}
+
+.section {
+    background-color: var(--clr-super-light);
+    height: 80vh;
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+
+.info-title {
+    font-size: 4rem;
+    font-weight: 200;
+    margin-bottom: 2rem;
+}
+
+.info-title span {
+    font-weight: bold;
+}
+
+.info-desc {
+    font-style: oblique;
+    line-height: 1.5;
+    font-size: 1.5rem;
+}
+
+.line {
+    background-color: var(--clr-dark);
+}
+
+.line.vertical-line {
+    height: 6rem;
+    width: 1px;
+    margin-top: 2rem;
+}
+
+.line.horizontal-line {
+    height: 1px;
+    width: 6rem;
+}
+
+
+/* Header */
+
+#header button {
+    position: absolute;
+    right: 64px;
+    top: 100px;
+    z-index: 1;
+    border: none;
+    font-size: 1.5rem;
+    color: var(--clr-light-dark);
+    white-space: normal;
+    cursor: pointer;
+}
+
+/* Hero */
+
+#hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    position: relative;
+}
+
+#hero .info {
+    width: 37%;
+}
+
+#hero .hero-img {
+    width: 45%;
+    position: absolute;
+    bottom: 0;
+    right: 10rem;
+}
+
+/* Camera section */
+
+#camera {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    gap: 1rem;
+}
+
+#camera .camera-img {
+    object-fit: contain;
+    width: 40%;
+}
+
+#camera .info {
+    width: 55%;
+}
+
+#camera .head-line {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    margin-bottom: 3rem;
+}
+
+#camera .info-title {
+    width: calc(100% - 96px - 3rem);
+    margin: 0;
+}
+
+#camera .icon-list {
+    width: 30%;
+    list-style-type: none;
+    display: flex;
+}
+
+
+#camera .icon-list {
+    margin-top: 5rem;
+    padding-left: 0;
+    width: 50%;
+    list-style-type: none;
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+#camera .icon-list .list-item {
+    font-size: 2rem;
+    color: white;
+    background-color: var(--clr-light);
+
+    padding: 0.9rem 1rem;
+}
+
+
+#camera .icon-list .list-item i {
+    height: 32px;
+    width: 32px;
+}
+
+/* Full photo section */
+
+#full-photo {
+    padding: 0;
+}
+
+#full-photo img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+/* Bridge */
+
+#bridge {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#bridge .info {
+    width: 37%;
+}
+
+#bridge .hero-img {
+    width: 55%;
+}
+
+/* Gallery */
+
+#gallery {
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gallery-items {
+    width: 85%;
+}
+
+#gallery img {
+    width: calc(100% / 3 - 3px);
+    vertical-align: middle;
+}
+
+
+#gallery img:nth-child(2) {
+    transform: scale(1.5);
+}
+
+/* Message section */
+
+#messages {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+}
+
+#messages .info {
+    width: 90%;
+}
+
+#messages .send-message {
+    width: 50%;
+    height: 40%;
+
+    display: grid;
+    grid-template-areas: 
+    "email subject"
+    "message message"
+    "button button";
+
+    gap: 2rem;
+
+    margin-top: 3rem;
+}
+
+#messages .email-input {
+    grid-area: email;
+    padding-left: 1rem;
+}
+
+
+#messages .subject-input {
+    grid-area: subject;
+    padding-left: 1rem;
+}
+
+
+#messages .message-input {
+    grid-area: message;
+    padding-top: 1rem;
+    padding-left: 1rem;
+
+    resize: none;
+}
+
+#messages .send-message *:not(:last-child) {
+    background-color: var(--clr-super-light);
+}
+
+#messages *::placeholder {
+    color: var(--clr-dark);
+}
+
+#messages .send-button {
+    grid-area: button;
+    color: white;
+    background-color: var(--clr-dark);
+
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -70px;
+}

@@ -1,0 +1,82 @@
+:root {
+    --clr-purple: #786eff;
+    --clr-light-gray: #f6f8f9;
+    --clr-gray: #273240;
+    --clr-light-black: #646f79;
+}
+
+html {
+    font-family: Helvetica;
+}
+
+/* Section */
+
+section {
+    min-height: 320px;
+    width: 50vw;
+    height: 30vh;
+    margin: 2rem auto 0 auto;
+    border-radius: 1rem;
+    /* padding: 1rem 2rem; */
+
+    background-color: var(--clr-light-gray);
+
+    position: relative;
+}
+
+/* Section info div */
+
+.info {
+    padding: 1rem 2rem;
+
+    width: 40%;
+    height: 100%;
+    margin-left: 1.5rem;
+}
+
+/* Section image */
+
+.section-img {
+    height: 90%;
+
+    position: absolute;
+    bottom: 0;
+    right: 2.5rem;
+}
+
+/* Section elements */
+
+.heading-info {
+    font-size: 0.6rem;
+    font-weight: bold;
+}
+
+.heading {
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: var(--clr-gray);
+}
+
+.description {
+    line-height: 1.5;
+    color: var(--clr-light-black);
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.button {
+    padding: 0.5rem 0.7rem;
+    border-radius: 0.2rem;
+    color: var(--clr-gray);
+    font-size: 14px;
+    font-weight: 600;
+    margin-right: 0.8rem;
+    cursor: pointer;
+}
+
+.colored-button {
+    color: white;
+    border: none;
+    background-color: var(--clr-purple);
+    padding: calc(0.5rem + 2px) calc(0.7rem + 2px);
+} 
