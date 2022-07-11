@@ -1,0 +1,257 @@
+:root {
+    --clr-bright-green: #29d39f;
+    --clr-light-green: #b2f1dd;
+}
+
+body {
+    font-family: 'PT Sans', sans-serif;
+    margin: 0;
+    width: calc(100vw - 8rem);
+    padding: 0 4rem;
+}
+
+/* Generic */
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+/* Main */
+
+.main {
+
+    display: flex;
+    flex-wrap: wrap;
+    /* align-items: center; */
+}
+
+/* Header */
+
+.header {
+    color: #fff;
+    margin: 0 auto;
+    top: 30px;
+    left: 250px;
+    width: 70%;
+    font-size: 1.5rem;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+}
+
+/* Hero section */
+
+#hero {
+    margin: 0 auto;
+    width: 100%;
+    height: 70vh;
+    background: rgba(0, 0, 0, 0.5);
+
+    position: relative;
+    color: white;
+}
+
+#hero .info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding-top: 5rem;
+}
+
+#hero img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+}
+
+#hero h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+
+#hero p {
+    text-align: center;
+    width: 500px;
+    font-size: 1.5rem;
+}
+
+#hero .button {
+    color: white;
+    background-color: var(--clr-bright-green);
+    cursor: pointer;
+    border-radius: 0.3rem;
+    width: 150px;
+    height: 60px;
+    margin: 2rem 0;
+    padding: 0 1rem;
+    
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+#hero .button-transparent {
+    background-color: transparent;
+    border: none;
+    width: 200px;
+    font-weight: normal;
+
+}
+
+#hero i {
+    padding-left: 0.5rem;
+}
+
+/* Tablet section */
+
+#tablet {
+    height: 65vh;
+    width: 50%;
+
+    position: relative;
+}
+
+#tablet img {
+    width: 100%;
+    height: 100%;
+}
+
+/* Hustle section */
+
+#hustle {
+    width: calc(50% - 10rem);
+    height: calc(65vh - 4rem);
+    padding: 2rem 5rem;
+}
+
+#hustle h2 {
+    margin-bottom: 8px;
+}
+
+#hustle p {
+    font-size: 1.6rem;
+}
+
+#hustle>p {
+    margin-top: 0;
+    font-size: 1.8rem;
+}
+
+#hustle ul {
+    margin-top: 5rem;
+}
+
+#hustle i {
+    color: var(--clr-bright-green);
+    padding-right: 1.5rem;
+}
+
+/* Icons section */
+
+#icons {
+    text-align: center;
+    height: 65vh;
+    width: 50%;
+}
+
+#icons h2 {
+    font-weight: bold;
+}
+
+#icons ul {
+    width: 100%;
+    height: 70%;
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+#icons ul li {
+    width: 30%;
+}
+
+#icons ul li p {
+    color: var(--clr-bright-green);
+    font-weight: bold;
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+
+#icons img {
+    width: 100px;
+}
+
+/* Pen section */
+
+#pen {
+    height: 65vh;
+    width: 50%;
+
+    position: relative;
+}
+
+#pen img {
+    width: 100%;
+    height: 100%;
+}
+
+/* Questions section */
+
+#questions {
+    height: 70vh;
+    background-color: var(--clr-light-green);
+    padding: 0rem 4rem;
+    width: calc(100% - 8rem);
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+#questions .questions-boxes {
+    height: 70%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+#questions .question-box {
+    height: 50%;
+    padding: 0 3rem;
+    width: calc(33% - 6rem);
+}
+
+
+#questions .question-box h3 {
+    font-size: 1.8rem;
+    margin-bottom: 8px;
+}
+
+#questions .question-box p {
+    font-size: 1.4rem;
+
+}
+
+#question .last {
+    position: absolute;
+    bottom: 0;
+    margin-left: 400px;
+}
+
+
+#question .last span {
+    font-weight: bold;
+}
