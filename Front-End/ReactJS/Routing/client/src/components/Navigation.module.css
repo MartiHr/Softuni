@@ -1,0 +1,23 @@
+ul {
+    list-style-type: none;
+}
+
+.link-style {
+    color: white;
+}
+
+.active-link {
+    background-color: purple;
+}
+
+li:hover {
+    animation: myfirst 2s 1;
+}
+
+@keyframes myfirst
+{
+    0%      {background:darkblue;}
+    25%     {background:darkcyan;}
+    75%     {background:darkcyan;}
+    100%    {background:darkblue;}
+}
